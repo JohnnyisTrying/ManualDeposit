@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<SIPStatusList>
+  <SIPStatus objectName="DC data validation according to IE entity type" Status="PreEnrichment" Description="DC data validation according to IE entity type" NeedsTidying="false" Failure="false" Success="false"/>
+  <SIPStatus objectName="Additional tasks before moving to Permanent server" Status="Enrichment" Description="Additional tasks before moving to Permanent server" NeedsTidying="false" Failure="false" Success="false"/>
+  <SIPStatus objectName="IE (part of the SIP) was declined" Status="DeclineIE" Description="IE (part of the SIP) was declined" NeedsTidying="false" Failure="false" Success="false"/>
+  <SIPStatus objectName="IE (part of the SIP) was rejected" Status="RejectIE" Description="IE (part of the SIP) was rejected" NeedsTidying="false" Failure="false" Success="false"/>
+  <SIPStatus objectName="Deposit has been rejected" Status="Reject" Description="Deposit has been rejected" NeedsTidying="false" Failure="false" Success="false"/>
+  <SIPStatus objectName="Initialising deposit" Status="Initialization" Description="Initialising deposit" NeedsTidying="false" Failure="false" Success="false"/>
+  <SIPStatus objectName="Validations Stack execution" Status="Validation" Description="Validations Stack execution" NeedsTidying="false" Failure="false" Success="false"/>
+  <SIPStatus objectName="SIP has been moved to the Permanent server" Status="Finished" Description="SIP has been moved to the Permanent server" NeedsTidying="true" Failure="false" Success="true"/>
+  <SIPStatus objectName="The content of the deposit has been rejected" Status="Reject_Content" Description="The content of the deposit has been rejected" NeedsTidying="false" Failure="false" Success="false"/>
+  <SIPStatus objectName="Job is in the assessor workbench" Status="Assessor" Description="Job is in the assessor workbench" NeedsTidying="false" Failure="false" Success="false"/>
+  <SIPStatus objectName="Failed to create SIP during Deposit stage" Status="Deposit" Description="Failed to create SIP during Deposit stage" NeedsTidying="false" Failure="true" Success="false"/>
+  <SIPStatus objectName="SIP is being deleted" Status="Delete" Description="SIP is being deleted" NeedsTidying="false" Failure="false" Success="true"/>
+  <SIPStatus objectName="SIP was either rejected or declined" Status="RejectDecline" Description="SIP was either rejected or declined" NeedsTidying="false" Failure="false" Success="true"/>
+  <SIPStatus objectName="SIP gets its configuration" Status="Configuration" Description="SIP gets its configuration" NeedsTidying="false" Failure="false" Success="false"/>
+  <SIPStatus objectName="Move to Permanent server" Status="ToPermanent" Description="Move to Permanent server" NeedsTidying="false" Failure="false" Success="false"/>
+  <SIPStatus objectName="Deposit has been declined" Status="Decline" Description="Deposit has been declined" NeedsTidying="true" Failure="false" Success="true"/>
+  <SIPStatus objectName="Failed to load SIP into the Staging server" Status="Loading" Description="Failed to load SIP into the Staging server" NeedsTidying="false" Failure="true" Success="false"/>
+</SIPStatusList>

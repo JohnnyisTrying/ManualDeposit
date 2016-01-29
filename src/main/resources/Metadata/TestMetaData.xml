@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<MetaData>
+  <MetaData objectName="3" DcType="type" DnxSubType="" IsDNX="false" DataType="MultiSelect" AllowsMultipleRows="false" SortOrder="3" WillBeUploaded="true" IsCompulsory="true" MaximumLength="100" DnxType="" ProvenanceEventOutcome="false" DataFieldName="ContentType" DataFieldDescription="Content Type" IsVisible="true" SavedWithTemplate="true" PopulatedFromCMS="false" IsSetBySystem="false">
+    <ListValues objectName="Photograph" Value="Photograph" SortOrder="2" Display="Photograph"/>
+    <ListValues objectName="Map" Value="Map" SortOrder="4" Display="Map"/>
+    <ListValues objectName="Music" Value="Music" SortOrder="5" Display="Music"/>
+    <ListValues objectName="Oral History" Value="Oral History" SortOrder="6" Display="Oral History"/>
+    <ListValues objectName="Mixed" Value="Mixed" SortOrder="0" Display="Mixed"/>
+    <ListValues objectName="Poster" Value="Poster" SortOrder="7" Display="Poster"/>
+    <ListValues objectName="Manuscript" Value="Manuscript" SortOrder="1" Display="Manuscript"/>
+    <ListValues objectName="Cartoon" Value="Cartoon" SortOrder="3" Display="Cartoon"/>
+  </MetaData>
+  <Documentation>To edit this file, use Indigo.exe /MetaData</Documentation>
+  <MetaData objectName="2" DcType="" DnxSubType="recordId" IsDNX="true" DataType="Text" CMSFieldName="Id" AllowsMultipleRows="false" SortOrder="2" DefaultValue="" WillBeUploaded="false" IsCompulsory="false" MaximumLength="100" DnxType="CMS" ProvenanceEventOutcome="false" DataFieldName="CMSIdentifier" DataFieldDescription="CMS Identifier" IsVisible="false" SavedWithTemplate="true" PopulatedFromCMS="true" IsSetBySystem="false"/>
+  <MetaData objectName="1" DcType="" DnxSubType="system" IsDNX="true" DataType="Text" AllowsMultipleRows="false" SortOrder="1" DefaultValue="" WillBeUploaded="false" IsCompulsory="false" MaximumLength="100" DnxType="CMS" ProvenanceEventOutcome="false" DataFieldName="CMSSystem" DataFieldDescription="CMS System" IsVisible="false" SavedWithTemplate="true" PopulatedFromCMS="false" IsSetBySystem="false"/>
+  <MetaData objectName="7" DcType="" DnxSubType="IEEntityType" IsDNX="true" DataType="Text" AllowsMultipleRows="false" SortOrder="7" DefaultValue="UnpublishedIE" WillBeUploaded="true" IsCompulsory="true" MaximumLength="100" DnxType="generalIECharacteristics" ProvenanceEventOutcome="false" DataFieldName="EntityType" DataFieldDescription="Entity Type" IsVisible="false" SavedWithTemplate="true" PopulatedFromCMS="false" IsSetBySystem="false"/>
+  <MetaData objectName="6" DcType="" DnxSubType="physicalCarrierMedia" IsDNX="true" DataType="MultiSelect" AllowsMultipleRows="false" SortOrder="6" DefaultValue="" WillBeUploaded="true" IsCompulsory="false" MaximumLength="100" DnxType="generalRepCharacteristics" ProvenanceEventOutcome="false" DataFieldName="Source Type" DataFieldDescription="Original Media" IsVisible="true" SavedWithTemplate="true" PopulatedFromCMS="false" IsSetBySystem="false">
+    <ListValues objectName="CD_ROM" Value="CD_ROM" SortOrder="8" Display="CD-ROM"/>
+    <ListValues objectName="DVD+R" Value="DVD+R" SortOrder="9" Display="DVD+R"/>
+    <ListValues objectName="DVD_R" Value="DVD_R" SortOrder="10" Display="DVD-R"/>
+    <ListValues objectName="5.25_inch_IBM_Floppy" Value="5.25_inch_IBM_Floppy" SortOrder="7" Display="5.25 inch IBM formatted floppy disks"/>
+    <ListValues objectName="3.5_inch_IBM_Floppy_DD" Value="3.5_inch_IBM_Floppy_DD" SortOrder="5" Display="3.5 inch IBM formatted floppy disk (Double density)"/>
+    <ListValues objectName="3.5_inch_IBM_Floppy" Value="3.5_inch_IBM_Floppy" SortOrder="4" Display="3.5 inch IBM formatted floppy disk"/>
+    <ListValues objectName="solid_state_media" Value="solid_state_media" SortOrder="2" Display="Solid state media"/>
+    <ListValues objectName="Hard_drive" Value="Hard_drive" SortOrder="3" Display="Hard Drive"/>
+    <ListValues objectName="Portable_Hard_Drive" Value="Portable_Hard_Drive" SortOrder="11" Display="Portable Hard Drive"/>
+    <ListValues objectName="3.5_inch_MAC_Floppy" Value="3.5_inch_MAC_Floppy" SortOrder="6" Display="3.5 inch Mac formatted floppy disk"/>
+    <ListValues objectName="Optical_disc" Value="Optical_disc" SortOrder="1" Display="Optical disc"/>
+    <ListValues objectName="magnetic_disc" Value="magnetic_disc" SortOrder="0" Display="Magnetic disc"/>
+  </MetaData>
+  <MetaData objectName="5" DcType="" DnxSubType="hardwareUsed" IsDNX="true" DataType="MultiSelect" AllowsMultipleRows="false" SortOrder="5" WillBeUploaded="true" IsCompulsory="true" MaximumLength="100" DnxType="generalRepCharacteristics" ProvenanceEventOutcome="false" DataFieldName="Source" DataFieldDescription="Capture System" IsVisible="true" SavedWithTemplate="true" PopulatedFromCMS="false" DataFieldValue="" IsSetBySystem="false">
+    <ListValues objectName="Apple" Value="Apple" SortOrder="2" Display="Apple"/>
+    <ListValues objectName="WindowsXP" Value="WindowsXP" SortOrder="1" Display="Windows XP"/>
+    <ListValues objectName="Windows2000" Value="Windows2000" SortOrder="0" Display="Windows 2000"/>
+    <ListValues objectName="iMac" Value="iMac" SortOrder="3" Display="iMac"/>
+  </MetaData>
+  <MetaData objectName="4" DcType="" DnxSubType="policyId" IsDNX="true" DataType="MultiSelect" CMSFieldName="Rights" AllowsMultipleRows="false" SortOrder="4" DefaultValue="" WillBeUploaded="true" IsCompulsory="true" MaximumLength="100" DnxType="accessRightsPolicy" ProvenanceEventOutcome="false" DataFieldName="AccessRestriction" DataFieldDescription="Access Restriction" IsVisible="true" SavedWithTemplate="true" PopulatedFromCMS="true" DataFieldValue="" IsSetBySystem="false">
+    <ListValues objectName="300" Value="300" SortOrder="2" Display="Unpublished-Restricted by location">
+      <ListValues objectName="Access to the abstract is unrestricted">Access to the abstract is unrestricted</ListValues>
+      <ListValues objectName="Access to this item is unrestricted. A digital copy is also available to view onsite in the Library's Reading Rooms">Access to this item is unrestricted. A digital copy is also available to view onsite in the Library's Reading Rooms</ListValues>
+      <ListValues objectName="Access to the interview is unrestricted">Access to the interview is unrestricted</ListValues>
+      <ListValues objectName="Access to the tape is unrestricted">Access to the tape is unrestricted</ListValues>
+      <ListValues objectName="Digital object can only be viewed in Alexander Turnbull Library reading rooms">Digital object can only be viewed in Alexander Turnbull Library reading rooms</ListValues>
+    </ListValues>
+    <ListValues objectName="200" Value="200" SortOrder="1" Display="Published-restricted"/>
+    <ListValues objectName="400" Value="400" SortOrder="3" Display="Unpublished-Restricted by Person">
+      <ListValues objectName="Access to the interview requires the written permission of both the interviewee and donor">Access to the interview requires the written permission of both the interviewee and donor</ListValues>
+      <ListValues objectName="Access to the interview requires written permission of the interviewee">Access to the interview requires written permission of the interviewee</ListValues>
+      <ListValues objectName="Access to the interview requires the permission of the Curator of the Oral History Centre">Access to the interview requires the permission of the Curator of the Oral History Centre</ListValues>
+      <ListValues objectName="Restricted - Once permission is granted the digital object can only be viewed in Alexander Turnbull Library reading rooms">Restricted - Once permission is granted the digital object can only be viewed in Alexander Turnbull Library reading rooms</ListValues>
+      <ListValues objectName="Restricted">Restricted</ListValues>
+      <ListValues objectName="Original may be viewed at the discretion of the Curator">Original may be viewed at the discretion of the Curator</ListValues>
+      <ListValues objectName="T4">T4</ListValues>
+      <ListValues objectName="T5">T5</ListValues>
+      <ListValues objectName="Access to the collection is unrestricted but individual interviews may be restricted">Access to the collection is unrestricted but individual interviews may be restricted</ListValues>
+      <ListValues objectName="Access to the interview requires written permission of the donor">Access to the interview requires written permission of the donor</ListValues>
+      <ListValues objectName="Access to the tape requires the written permission of the donor">Access to the tape requires the written permission of the donor</ListValues>
+      <ListValues objectName="Original may be viewed with permission of private owner">Original may be viewed with permission of private owner</ListValues>
+      <ListValues objectName="Access to the collection requires written permission of the donor">Access to the collection requires written permission of the donor</ListValues>
+      <ListValues objectName="Access to the tape requires written permission of the interviewee">Access to the tape requires written permission of the interviewee</ListValues>
+    </ListValues>
+    <ListValues objectName="100" Value="100" SortOrder="0" Display="Open Access">
+      <ListValues objectName="Partial restriction">Partial restriction</ListValues>
+      <ListValues objectName="Access is unrestricted. A digital copy is also available to view onsite in the Library's Reading Rooms">Access is unrestricted. A digital copy is also available to view onsite in the Library's Reading Rooms</ListValues>
+      <ListValues objectName="Not restricted">Not restricted</ListValues>
+      <ListValues objectName="Access to digital object is unrestricted">Access to digital object is unrestricted</ListValues>
+      <ListValues objectName="Unrestricted">Unrestricted</ListValues>
+    </ListValues>
+  </MetaData>
+</MetaData>

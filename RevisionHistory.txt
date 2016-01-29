@@ -1,0 +1,11 @@
+Release 2.5 30th November, 2012
+=======================================================================
+
+This change will fix the following defects from Sprint ONE: - 
+
+#42 & #879: - Original file path issue.
+#51: - Indigo should startup when either of the cms is working.
+#317: - Indigo checking files against mdd twice.
+#669: - Provenance notes missing mandatory elements.
+#670:- Indigo loading IE with incorrect IE title.
+#784: - URL and notes field needed for published music flow.

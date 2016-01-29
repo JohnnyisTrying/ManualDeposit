@@ -1,0 +1,423 @@
+Indigo ManualDeposit-2.7 UAT(Pre PROD) Release2 7th March 2014
+
+Issues fixed: -
+ 
+#38: - Ability to launch file in explorer window.
+#39: - Meaningful messages when Indigo is working.
+#53: - Indigo Cleanup functionality.
+#65: - Display number of IEs/Files to be loaded.
+#68: - '[' or ']' in file name landing in Rosetta with no AR policy.
+#996: - Structure map jumbled up when loading through Indigo.
+#1017: - Ability to load additional rep codes.
+#1018: - Ability to load multiple complex IEs.
+#1019: - Indigo supporting checksums values from other applications (first iteration).
+#1022: - Provenance Note enhancement.
+#1029: - Additional sort option for first pane.
+#1030: - Templates clearing of data.
+#1041: - Removal of file/folder prefix from IE DC title field.
+#1043: - Display version number and environment to Indigo title.
+#1052: - Failed to load SIP error in Indigo.
+#1072: - Metadata mapping in configurator being lost.
+#1076: - Bulk load not working.
+#673: - Mdd values not being checked when "Use file to describe IE root" method is used.
+#1044: - Enhancement to open files when in the metadata customization screen.
+#1061: - Producer pane unresponsive.
+#1058: - Ability to re-size file list window in INDIGO Provenance Note screen.
+#1075: - Fixity - file list colour changes.
+#1077: - Ability to load multiple Rep with different SM.
+#1051: - Population of the file label field by Indigo.
+#1055: - Job Queue - cancelling job freezing.
+
+----------------------------------------------------------------------------------------------------------------------
+Indigo Release ManualDeposit-2.7-SNAPSHOT UAT Release 3rd March 2014
+
+Issues fixed: -
+
+#38: - Ability to launch file in explorer window.
+#39: - Meaningful messages when Indigo is working.
+#53: - Indigo Cleanup functionality.
+#65: - Display number of IEs/Files to be loaded.
+#68: - '[' or ']' in file name landing in Rosetta with no AR policy.
+#996: - Structure map jumbled up when loading through Indigo.
+#1017: - Ability to load additional rep codes.
+#1018: - Ability to load multiple complex IEs.
+#1019: - Indigo supporting checksums values from other applications (first iteration).
+#1022: - Provenance Note enhancement.
+#1029: - Additional sort option for first pane.
+#1030: - Templates clearing of data.
+#1041: - Removal of file/folder prefix from IE DC title field.
+#1043: - Display version number and environment to Indigo title.
+#1052: - Failed to load SIP error in Indigo.
+#1072: - Metadata mapping in configurator being lost.
+#1076: - Bulk load not working.
+#673: - Mdd values not being checked when "Use file to describe IE root" method is used.
+#1044: - Enhancement to open files when in the metadata customization screen.
+#1061: - Producer pane unresponsive.
+#1058: - Ability to re-size file list window in INDIGO Provenance Note screen.
+#1075: - Fixity - file list colour changes.
+#1077: - Ability to load multiple Rep with different SM.
+#1051: - Population of the file label field by Indigo.
+#1055: - Job Queue - cancelling job freezing.
+
+----------------------------------------------------------------------------------------------------------------------
+Indigo Release ManualDeposit-2.7-SNAPSHOT UAT Release 18th February 2014
+
+Issues fixed: -
+
+#38: - Ability to launch file in explorer window.
+#39: - Meaningful messages when Indigo is working.
+#53: - Indigo Cleanup functionality.
+#65: - Display number of IEs/Files to be loaded.
+#68: - '[' or ']' in file name landing in Rosetta with no AR policy.
+#996: - Structure map jumbled up when loading through Indigo.
+#1017: - Ability to load additional rep codes.
+#1018: - Ability to load multiple complex IEs.
+#1019: - Indigo supporting checksums values from other applications (first iteration).
+#1022: - Provenance Note enhancement.
+#1029: - Additional sort option for first pane.
+#1030: - Templates clearing of data.
+#1041: - Removal of file/folder prefix from IE DC title field.
+#1043: - Display version number and environment to Indigo title.
+#1052: - Failed to load SIP error in Indigo.
+#1072: - Metadata mapping in configurator being lost.
+#1076: - Bulk load not working.
+#673: - Mdd values not being checked when "Use file to describe IE root" method is used.
+#1044: - Enhancement to open files when in the metadata customization screen.
+#1061: - Producer pane unresponsive.
+#1058: - Ability to re-size file list window in INDIGO Provenance Note screen.
+#1075: - Fixity - file list colour changes.
+#1077: - Ability to load multiple Rep with different SM.
+#1051: - Population of the file label field by Indigo.
+#1055: - Job Queue - cancelling job freezing.
+
+----------------------------------------------------------------------------------------------------------------------
+Indigo Release ManualDeposit-2.7-SNAPSHOT UAT Release 29th January 2014
+
+Issues fixed: -
+
+#38: - Ability to launch file in explorer window.
+#39: - Meaningful messages when Indigo is working.
+#53: - Indigo Cleanup functionality.
+#65: - Display number of IEs/Files to be loaded.
+#68: - '[' or ']' in file name landing in Rosetta with no AR policy.
+#996: - Structure map jumbled up when loading through Indigo.
+#1017: - Ability to load additional rep codes.
+#1018: - Ability to load multiple complex IEs.
+#1019: - Indigo supporting checksums values from other applications (first iteration).
+#1022: - Provenance Note enhancement.
+#1029: - Additional sort option for first pane.
+#1030: - Templates clearing of data.
+#1041: - Removal of file/folder prefix from IE DC title field.
+#1043: - Display version number and environment to Indigo title.
+#1052: - Failed to load SIP error in Indigo.
+#1072: - Metadata mapping in configurator being lost.
+#1076: - Bulk load not working.
+#673: - Mdd values not being checked when "Use file to describe IE root" method is used.
+#1044: - Enhancement to open files when in the metadata customization screen.
+#1061: - Producer pane unresponsive.
+#1058: - Ability to re-size file list window in INDIGO Provenance Note screen.
+#1075: - Fixity - file list colour changes.
+
+----------------------------------------------------------------------------------------------------------------------
+Indigo Release ManualDeposit-2.7-SNAPSHOT UAT Release 13th January 2014
+
+Issues fixed: -
+
+#38: - Ability to launch file in explorer window.
+#39: - Meaningful messages when Indigo is working.
+#53: - Indigo Cleanup functionality.
+#65: - Display number of IEs/Files to be loaded.
+#68: - '[' or ']' in file name landing in Rosetta with no AR policy.
+#996: - Structure map jumbled up when loading through Indigo.
+#1017: - Ability to load additional rep codes.
+#1018: - Ability to load multiple complex IEs.
+#1019: - Indigo supporting checksums values from other applications (first iteration).
+#1022: - Provenance Note enhancement.
+#1029: - Additional sort option for first pane.
+#1030: - Templates clearing of data.
+#1041: - Removal of file/folder prefix from IE DC title field.
+#1043: - Display version number and environment to Indigo title.
+#1052: - Failed to load SIP error in Indigo.
+#1072: - Metadata mapping in configurator being lost.
+#1076: - Bulk load not working.
+#673: - Mdd values not being checked when "Use file to describe IE root" method is used.
+#1044: - Enhancement to open files when in the metadata customization screen.
+#1061: - Producer pane unresponsive.
+
+----------------------------------------------------------------------------------------------------------------------
+Indigo Release ManualDeposit-2.7-SNAPSHOT UAT Release 17th December 2013
+
+Issues fixed: -
+
+#38: - Ability to launch file in explorer window.
+#39: - Meaningful messages when Indigo is working.
+#53: - Indigo Cleanup functionality.
+#65: - Display number of IEs/Files to be loaded.
+#68: - '[' or ']' in file name landing in Rosetta with no AR policy.
+#996: - Structure map jumbled up when loading through Indigo.
+#1017: - Ability to load additional rep codes.
+#1018: - Ability to load multiple complex IEs.
+#1019: - Indigo supporting checksums values from other applications (first iteration).
+#1022: - Provenance Note enhancement.
+#1029: - Additional sort option for first pane.
+#1030: - Templates clearing of data.
+#1041: - Removal of file/folder prefix from IE DC title field.
+#1043: - Display version number and environment to Indigo title.
+#1052: - Failed to load SIP error in Indigo.
+#1072: - Metadata mapping in configurator being lost.
+#1076: - Bulk load not working.
+
+----------------------------------------------------------------------------------------------------------------------
+Indigo ManualDeposit-2.6 UAT(Pre PROD) Release2 15th August 2013
+
+Issues fixed: -
+ 
+#DPS-SDK upgrade: - From version 2.0.0 to 3.1.0
+#58: - Ability to supply producer and CMS info for Staff Mediated group
+#435: - Ability to provide a SIP Title for content deposited via Indigo
+#668: - Granular Provenance notes.
+#936: - Ability to load multiple serial issues with unique designations
+#221: - Ability to supply file label for files loaded using Indigo 
+#394: - Job Queue error while loading SIPs
+#785: - Indigo start up with error message
+#991: - Indigo submitting derivative copies
+#996: - Structure Maps ordering issue
+#880: - Right Click function for Xming Indigo
+#1016: - Indigo cleans up files from indigoftp location after SIP is in permanent.
+Duplication of Provenance notes issue fixed.
+
+----------------------------------------------------------------------------------------------------------------------
+
+Indigo Release ManualDeposit-2.5-SNAPSHOT UAT Release 6th December 2012
+Indigo Release ManualDeposit-2.5 UAT Release 19th December 2012
+
+Issues fixed: -
+
+#42 and #879 : - Original file path issue where path is "/filename". 
+#51: - INDIGO should startup fine when atleast one of the CMS (Tapuhi or Voyager) is working fine. 
+#317: - INDIGO checking files against mdd twice
+#669: - Provenance notes from Indigo are missing mandatory elements 
+#670: - Indigo loading IE with incorrect IE title 
+#784: - URL and Notes fields needed for Published Music Flow
+Minimonkey: - Changed MD5Utility.exe to use latest jre1.6.0_35
+
+----------------------------------------------------------------------------------------------------------------------
+
+25/10/2011
+
+INDIGO Release 2.4 has resolution to the following defects logged in trac.
+
+#250 	Opening INDIGO when SIPs are in processing causes job queue to crash and be erased
+#4 	Completed Jobs being wiped from the job queue
+#74 	Issue with restarting running jobs when closed and reopen Indigo
+#394 	Job Queue error while loading SIPs
+#621 	Add new dc field does not working
+#427 	IEs from Indigo submitted to Rosetta without the files
+
+----------------------------------------------------------------------------------------------------------------------
+
+INDIGO Release 2.3 has the following changes.
+
+New attributes eventDescription and eventDateTime in the Provenance Note DNX element.
+Fix for 
+Ticket #250:	When a job is being loaded, it takes a state 'Batching'. If Indigo is closed in this stage and opened later, the job queue is completely wiped off.
+		At the moment the fix provides a way to take the jobs that were stopped abruptly which has 'Batching' to be re-processed from the beginning.
+		
+		The provenance event outcome detail field changed to be text area instead of a text field and be able to take more characters.
+		The provenance event outcome detail field is limited to the max. length of characters at the Indigo config. level. When this limit is exceeded 
+		it should show a message to the user.
+			
+
+
+6/Apr/2010
+
+Welcome to version 2 of INDIGO
+
+
+If you have any problems please contact 
+your friendly NDHA integration team.
+
+
+Mike
+
+ INDIGO Release 2.2 Version 9
+Provenance note maximum length not working correctly - fixed
+
+ INDIGO Release 2.2 Version 8
+Speed improvement for bulk load
+
+ INDIGO Release 2.2 Version 7
+Added a bit more logging information to give start and end times for file copying as well
+
+ INDIGO Release 2.2 Version 6
+Added logging information to give start and end times for bulk loads
+
+ INDIGO Release 2.2 Version 5
+Added a retry to timed out SRU queries for bulk load
+
+ INDIGO Release 2.2 Version 4
+Fixed issue with bulk load where deposits would wait until all cleanup items have been created before depositing the first one.
+This would probably have been an intermittent issue so may not have been noticed by most people.
+Indigo cleanup directory now gets created if it doesn't already exist
+
+ INDIGO Release 2.2 Version 3
+Fixed performance issues with bulk load of large numbers of large files (this time)
+
+ INDIGO Release 2.2 Version 2
+Fixed performance issues with bulk load of large numbers of large files
+
+ INDIGO Release 2.2 Version 1
+Cleanup issue fixed.
+Several other bugs not recorded also fixed
+
+ INDIGO Release 2.0 Version 21
+Release candidate
+Bugs Indigo_314, Indigo_319 fixed.
+Several other bugs not recorded also fixed
+
+ INDIGO Release 2.0 Version 20
+Bulk load submission problem fixed
+Metadata values being lost - now fixed.
+
+ INDIGO Release 2.0 Version 19
+Fix for the connection reset error
+
+ INDIGO Release 2.0 Version 18
+Bugs fixed: Indigo_304, Indigo_308, Indigo_303
+Indigo_310 can not be reproduced in the development version.
+Track+ issue nos. 2767 and 2808 are also resolved.
+Several changes to the bulk loader UI to give more feedback.
+Tracing information added to the FTP connection.
+
+ INDIGO Release 2.0 Version 17
+Bugs fixed: Indigo_305, Indigo_307, Indigo_301
+
+ INDIGO Release 2.0 Version 16
+Several bulk loader bugs fixed
+
+ INDIGO Release 2.0 Version 15
+Performance issues addressed for bulk loading a very large number of files.
+Bug where entity type directories were being added as IEs has been fixed.
+Bug where sub directories containing IEs were being added multiple times has been fixed
+
+ INDIGO Release 2.0 Version 14
+Performance issues addressed for SIPs with a very large number of files.
+Fixed an FTP timeout issue.
+Fixed a intermittent bug with bulk loader where meta data was being overwritten.
+
+ INDIGO Release 2.0 Version 13
+Bug fixes.
+
+ INDIGO Release 2.0 Version 12
+Bulk load jobs are now batched.  Number of items in each batch is configured on a user group level.
+
+ INDIGO Release 2.0 Version 11
+File dates now working
+File label changed to filename rather than path
+
+ INDIGO Release 2.0 Version 10
+Bug fix for structure items.  Group structure items now work per group rather than just sound
+
+ INDIGO Release 2.0 Version 9
+Fixed issue where Indigo would stop responding during some cancels
+Changes to structure items should now be reflected immediately
+
+ INDIGO Release 2.0 Version 8
+Fixed issue with missing directory
+
+ INDIGO Release 2.0 Version 7
+Character substitution functionality added
+
+ INDIGO Release 2.0 Version 6
+Big release - included bulk load functionality
+
+ INDIGO Release 2.0 Version 5
+Bug fixed - Changes to favourites not being reflected in the main screen
+Added duplicates column to MiniMonkey copy screen
+
+ INDIGO Release 2.0 Version 4
+Bug fixed - "Job failed - null"
+
+ INDIGO Release 2.0 Version 3
+Cancel jobs now sets file times correctly
+
+ INDIGO Release 2.0 Version 2
+Defect fix and new functionality included
+
+ INDIGO Release 2.0 Version 1
+Version 2 SDK included
+Several new pieces of functionality
+
+ INDIGO Release 1.14-SNAPSHOT Version 1.23
+Jobs now restart correctly & cancel correctly
+
+ INDIGO Release 1.14-SNAPSHOT Version 1.22
+Fix defect where cancel job creates directories instead of files
+
+ INDIGO Release 1.14-SNAPSHOT Version 1.21
+Recompile only
+
+ INDIGO Release 1.14-SNAPSHOT Version 1.20
+Added more debug info to job queue
+fixed defect causing jobs to try to copy files when reloading Indigo
+Changed job processing so that jobs already loaded into the DPS no longer fail if they belong to someone else
+
+ INDIGO Release 1.14-SNAPSHOT Version 1.19
+Reduced debug information
+
+ INDIGO Release 1.14-SNAPSHOT Version 1.18
+Numerous bug fixes
+Issue 1978: Auto delete of content
+Issue 2537: MiniMonkey now retains original file dates
+Issue 2538: Intermittent problem with Indigo validating mdd file
+Issue 2544: Wrong producer applied sometimes
+Issue 2545: Cancelling a job causes files to disappear
+
+ INDIGO Release 1.14-SNAPSHOT Version 1.17
+Fixed error that sometimes occurs on startup
+
+ INDIGO Release 1.14-SNAPSHOT Version 1.16
+More information provided when an error occurs
+
+ INDIGO Release 1.14-SNAPSHOT Version 1.15
+Fixed "Could not copy files because file not found" bug.
+
+ INDIGO Release 1.14-SNAPSHOT Version 1.14
+Fixed bug in MiniMonkey that stopped files from being copied.
+
+ INDIGO Release 1.14-SNAPSHOT Version 1.13
+This release addresses the following Track+ issues:
+2403
+2478
+2480
+2482
+2486
+2503
+See Track+ for details.
+
+ INDIGO Release 1.14-SNAPSHOT Version 1.12
+Extra debug logging information added
+
+ INDIGO Release 1.14-SNAPSHOT Version 1.10
+Corrected issue with cleanup directory path being included
+
+ INDIGO Release 1.14-SNAPSHOT Version 1.9
+Various fixes as per Track+
+
+ INDIGO Release 1.14-SNAPSHOT Version 1.8
+Re-arranging items within an IE now works correctly with the mouse.
+Copy functionality modified for MiniMonkey
+
+ INDIGO Release 1.14-SNAPSHOT Version 1.5
+Mini monkey rewritten
+Job queue rewritten
+Indigo now cleans up files after it has deposited
+Add all files as IE's now includes files in sub-directories
+
+ INDIGO Release 1.14-SNAPSHOT Version 1.4
+Added training config
+
+ INDIGO Release 1.14-SNAPSHOT Version 1
+MiniMonkey fixed so that sub directories are written correctly
+New job queue functionality
+Various bug fixes

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<FileTypes>
+  <FileTypeObject objectName="Page(2)1" Description="Page(2)" SortOrder="1" Mandatory="false" FilePrefix="page" Position="End" AllowMultiples="true"/>
+  <FileTypeObject objectName="Abstract5" Description="Abstract" SortOrder="5" Mandatory="false" FilePrefix="A" Position="Beginning" AllowMultiples="true"/>
+  <FileTypeObject objectName="Generic Sequence14" Description="Generic Sequence" SortOrder="14" Mandatory="false" FilePrefix="G" Position="End" AllowMultiples="true"/>
+  <FileTypeObject objectName="Page7" Description="Page" SortOrder="7" Mandatory="false" FilePrefix="P" Position="End" AllowMultiples="true"/>
+  <FileTypeObject objectName="Test thing2" Description="Test thing" SortOrder="2" Mandatory="false" FilePrefix="z" Position="Beginning" AllowMultiples="true"/>
+  <FileTypeObject objectName="Back9" Description="Back" SortOrder="9" Mandatory="false" FilePrefix="C" Position="End" AllowMultiples="true"/>
+  <FileTypeObject objectName="Cover3" Description="Cover" SortOrder="3" Mandatory="false" FilePrefix="C" Position="Beginning" AllowMultiples="true"/>
+  <FileTypeObject objectName="ContentsPage6" Description="ContentsPage" SortOrder="6" Mandatory="false" FilePrefix="O" Position="Beginning" AllowMultiples="true"/>
+  <FileTypeObject objectName="Track12" Description="Track" SortOrder="12" Mandatory="false" FilePrefix="T" Position="End" AllowMultiples="true"/>
+  <FileTypeObject objectName="Front4" Description="Front" SortOrder="4" Mandatory="false" FilePrefix="C" Position="End" AllowMultiples="true"/>
+  <FileTypeObject objectName="Interview13" Description="Interview" SortOrder="13" Mandatory="false" FilePrefix="I" Position="End" AllowMultiples="true"/>
+  <FileTypeObject objectName="Appendix8" Description="Appendix" SortOrder="8" Mandatory="false" FilePrefix="X" Position="Beginning" AllowMultiples="true"/>
+  <FileTypeObject objectName="SideStart10" Description="SideStart" SortOrder="10" Mandatory="false" FilePrefix="ST" Position="End" AllowMultiples="true"/>
+  <FileTypeObject objectName="Side11" Description="Side" SortOrder="11" Mandatory="false" FilePrefix="S" Position="End" AllowMultiples="true"/>
+</FileTypes>

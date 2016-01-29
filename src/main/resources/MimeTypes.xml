@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<MimeTypes>
+    <MimeType objectName="text/css" FileName="txt.png">text/css</MimeType>
+    <MimeType objectName="application/x-csh">application/x-csh</MimeType>
+    <MimeType objectName="application/vnd.ms-excel" FileName="kspread_ksp.png">application/vnd.ms-excel</MimeType>
+    <MimeType objectName="image/tiff" FileName="images.png">image/tiff</MimeType>
+    <MimeType objectName="application/x-dos_ms_powerpoint2">application/x-dos_ms_powerpoint2</MimeType>
+    <MimeType objectName="application/x-tex">application/x-tex</MimeType>
+    <MimeType objectName="application/mspowerpoint" FileName="doc.png">application/mspowerpoint</MimeType>
+    <MimeType objectName="audio/echospeech" FileName="sound.png">audio/echospeech</MimeType>
+    <MimeType objectName="multipart/header-set">multipart/header-set</MimeType>
+    <MimeType objectName="image/x-cmu-raster" FileName="images.png">image/x-cmu-raster</MimeType>
+    <MimeType objectName="application/x-gtar">application/x-gtar</MimeType>
+    <MimeType objectName="multipart/parallel">multipart/parallel</MimeType>
+    <MimeType objectName="application/wita">application/wita</MimeType>
+    <MimeType objectName="image/vnd.dxf" FileName="images.png">image/vnd.dxf</MimeType>
+    <MimeType objectName="message/external-body">message/external-body</MimeType>
+    <MimeType objectName="text/x-setext" FileName="txt.png">text/x-setext</MimeType>
+    <MimeType objectName="application/x-dvi">application/x-dvi</MimeType>
+    <MimeType objectName="message/news">message/news</MimeType>
+    <MimeType objectName="application/x-dos_ms_excel" FileName="kspread_ksp.png">application/x-dos_ms_excel</MimeType>
+    <MimeType objectName="application/x-fax-manager-job">application/x-fax-manager-job</MimeType>
+    <MimeType objectName="application/news-transmission">application/news-transmission</MimeType>
+    <MimeType objectName="application/x-wingz">application/x-wingz</MimeType>
+    <MimeType objectName="drawing/x-dwf">drawing/x-dwf</MimeType>
+    <MimeType objectName="application/x-rad-powermedia">application/x-rad-powermedia</MimeType>
+    <MimeType objectName="application/rtf" FileName="doc.png">application/rtf</MimeType>
+    <MimeType objectName="audio/x-wav" FileName="sound.png">audio/x-wav</MimeType>
+    <MimeType objectName="application/x-ppages">application/x-ppages</MimeType>
+    <MimeType objectName="image/vnd.dwg" FileName="images.png">image/vnd.dwg</MimeType>
+    <MimeType objectName="multipart/alternative">multipart/alternative</MimeType>
+    <MimeType objectName="image/x-cals" FileName="images.png">image/x-cals</MimeType>
+    <MimeType objectName="application/x-pdf" FileName="pdf.png">application/x-pdf</MimeType>
+    <MimeType objectName="application/cals-1840">application/cals-1840</MimeType>
+    <MimeType objectName="text/x-speech" FileName="txt.png">text/x-speech</MimeType>
+    <MimeType objectName="application/x-pcn">application/x-pcn</MimeType>
+    <MimeType objectName="application/x-ns-proxy-autoconfig">application/x-ns-proxy-autoconfig</MimeType>
+    <MimeType objectName="application/x-tcl">application/x-tcl</MimeType>
+    <MimeType objectName="application/x-ztardist">application/x-ztardist</MimeType>
+    <MimeType objectName="text/javascript" FileName="txt.png">text/javascript</MimeType>
+    <MimeType objectName="application/commonground">application/commonground</MimeType>
+    <MimeType objectName="video/x-msvideo" FileName="video.png">video/x-msvideo</MimeType>
+    <MimeType objectName="application/x-mif">application/x-mif</MimeType>
+    <MimeType objectName="video/mpeg2" FileName="video.png">video/mpeg2</MimeType>
+    <MimeType objectName="application/x-excel" FileName="kspread_ksp.png">application/x-excel</MimeType>
+    <MimeType objectName="application/x-texinfo">application/x-texinfo</MimeType>
+    <MimeType objectName="text/richtext" FileName="txt.png">text/richtext</MimeType>
+    <MimeType objectName="application/x-javascript">application/x-javascript</MimeType>
+    <MimeType objectName="application/x-troff-man">application/x-troff-man</MimeType>
+    <MimeType objectName="application/x-tardist">application/x-tardist</MimeType>
+    <MimeType objectName="video/quicktime" FileName="quicktime.png">video/quicktime</MimeType>
+    <MimeType objectName="application/vnd.framemaker">application/vnd.framemaker</MimeType>
+    <MimeType objectName="application/vnd.ms-project">application/vnd.ms-project</MimeType>
+    <MimeType objectName="application/futuresplash">application/futuresplash</MimeType>
+    <MimeType objectName="application/x-insight">application/x-insight</MimeType>
+    <MimeType objectName="image/x-portable-graymap" FileName="images.png">image/x-portable-graymap</MimeType>
+    <MimeType objectName="application/x-framemaker">application/x-framemaker</MimeType>
+    <MimeType objectName="application/x-tar">application/x-tar</MimeType>
+    <MimeType objectName="image/x-dxf" FileName="images.png">image/x-dxf</MimeType>
+    <MimeType objectName="application/x-net-install">application/x-net-install</MimeType>
+    <MimeType objectName="application/dca-rft">application/dca-rft</MimeType>
+    <MimeType objectName="text/xml" FileName="txt.png">text/xml</MimeType>
+    <MimeType objectName="application/x-envoy">application/x-envoy</MimeType>
+    <MimeType objectName="application/x-sh">application/x-sh</MimeType>
+    <MimeType objectName="application/activemessage">application/activemessage</MimeType>
+    <MimeType objectName="image/png" FileName="images.png">image/png</MimeType>
+    <MimeType objectName="x-world/x-3dmf">x-world/x-3dmf</MimeType>
+    <MimeType objectName="image/ief" FileName="images.png">image/ief</MimeType>
+    <MimeType objectName="application/x-install">application/x-install</MimeType>
+    <MimeType objectName="application/x-koan">application/x-koan</MimeType>
+    <MimeType objectName="application/macwriteii">application/macwriteii</MimeType>
+    <MimeType objectName="application/vnd.svd">application/vnd.svd</MimeType>
+    <MimeType objectName="application/envoy">application/envoy</MimeType>
+    <MimeType objectName="application/x-chat">application/x-chat</MimeType>
+    <MimeType objectName="message/http">message/http</MimeType>
+    <MimeType objectName="image/jpeg" FileName="images.png">image/jpeg</MimeType>
+    <MimeType objectName="application/x-asap">application/x-asap</MimeType>
+    <MimeType objectName="multipart/related">multipart/related</MimeType>
+    <MimeType objectName="image/fif" FileName="image.png">image/fif</MimeType>
+    <MimeType objectName="x-world/x-vream">x-world/x-vream</MimeType>
+    <MimeType objectName="image/x-xbitmap" FileName="images.png">image/x-xbitmap</MimeType>
+    <MimeType objectName="application/x-webbasic">application/x-webbasic</MimeType>
+    <MimeType objectName="application/remote-printing">application/remote-printing</MimeType>
+    <MimeType objectName="video/vdo" FileName="video.png">video/vdo</MimeType>
+    <MimeType objectName="multipart/voice-message">multipart/voice-message</MimeType>
+    <MimeType objectName="application/iges">application/iges</MimeType>
+    <MimeType objectName="text/sgml" FileName="txt.png">text/sgml</MimeType>
+    <MimeType objectName="application/postscript">application/postscript</MimeType>
+    <MimeType objectName="application/x-sprite">application/x-sprite</MimeType>
+    <MimeType objectName="image/x-portable-pixmap" FileName="images.png">image/x-portable-pixmap</MimeType>
+    <MimeType objectName="image/x-xpixmap" FileName="images.png">image/x-xpixmap</MimeType>
+    <MimeType objectName="multipart/x-mixed-replace">multipart/x-mixed-replace</MimeType>
+    <MimeType objectName="application/x-www-form-urlencoded">application/x-www-form-urlencoded</MimeType>
+    <MimeType objectName="application/vnd.ms-tnef">application/vnd.ms-tnef</MimeType>
+    <MimeType objectName="application/x-olescript">application/x-olescript</MimeType>
+    <MimeType objectName="application/x-p3d">application/x-p3d</MimeType>
+    <MimeType objectName="x-music/x-midi" FileName="sound.png">x-music/x-midi</MimeType>
+    <MimeType objectName="application/x-macbinary">application/x-macbinary</MimeType>
+    <MimeType objectName="application/x-alpha-form">application/x-alpha-form</MimeType>
+    <MimeType objectName="also vector/x-svf">also vector/x-svf</MimeType>
+    <MimeType objectName="application/x-iconbook">application/x-iconbook</MimeType>
+    <MimeType objectName="image/x-pict" FileName="images.png">image/x-pict</MimeType>
+    <MimeType objectName="application/dec-dx">application/dec-dx</MimeType>
+    <MimeType objectName="application/x-ustar">application/x-ustar</MimeType>
+    <MimeType objectName="application/mathematica">application/mathematica</MimeType>
+    <MimeType objectName="audio/voxware" FileName="sound.png">audio/voxware</MimeType>
+    <MimeType objectName="image/x-dwg" FileName="images.png">image/x-dwg</MimeType>
+    <MimeType objectName="workbook/formulaone">workbook/formulaone</MimeType>
+    <MimeType objectName="x-form/x-openscape">x-form/x-openscape</MimeType>
+    <MimeType objectName="application/cybercash">application/cybercash</MimeType>
+    <MimeType objectName="text/vbscript" FileName="txt.png">text/vbscript</MimeType>
+    <MimeType objectName="application/x-oleobject">application/x-oleobject</MimeType>
+    <MimeType objectName="application/x400-bp">application/x400-bp</MimeType>
+    <MimeType objectName="application/x-mailfolder">application/x-mailfolder</MimeType>
+    <MimeType objectName="image/cgm" FileName="images.png">image/cgm</MimeType>
+    <MimeType objectName="application/vnd.truedoc">application/vnd.truedoc</MimeType>
+    <MimeType objectName="text/tab-separated-values" FileName="txt.png">text/tab-separated-values</MimeType>
+    <MimeType objectName="audio/basic" FileName="sound.png">audio/basic</MimeType>
+    <MimeType objectName="image/x-eps" FileName="images.png">image/x-eps</MimeType>
+    <MimeType objectName="video/mpeg" FileName="video.png">video/mpeg</MimeType>
+    <MimeType objectName="x-script/x-wfxclient">x-script/x-wfxclient</MimeType>
+    <MimeType objectName="application/x-pointplus">application/x-pointplus</MimeType>
+    <MimeType objectName="application/x-bcpio">application/x-bcpio</MimeType>
+    <MimeType objectName="image/x-png" FileName="images.png">image/x-png</MimeType>
+    <MimeType objectName="audio/x-aiff" FileName="sound.png">audio/x-aiff</MimeType>
+    <MimeType objectName="image/vnd.svf" FileName="images.png">image/vnd.svf</MimeType>
+    <MimeType objectName="application/vnd.ms-powerpoint">application/vnd.ms-powerpoint</MimeType>
+    <MimeType objectName="application/x-troff">application/x-troff</MimeType>
+    <MimeType objectName="image/naplps" FileName="images.png">image/naplps</MimeType>
+    <MimeType objectName="image/x-sgi-rgba" FileName="images.png">image/x-sgi-rgba</MimeType>
+    <MimeType objectName="image/gif" FileName="images.png">image/gif</MimeType>
+    <MimeType objectName="application/x-java-archive">application/x-java-archive</MimeType>
+    <MimeType objectName="message/rfc822">message/rfc822</MimeType>
+    <MimeType objectName="text/enriched" FileName="txt.png">text/enriched</MimeType>
+    <MimeType objectName="application/x-inpview">application/x-inpview</MimeType>
+    <MimeType objectName="image/x-portable-anymap" FileName="images.png">image/x-portable-anymap</MimeType>
+    <MimeType objectName="x-conference/x-cooltalk">x-conference/x-cooltalk</MimeType>
+    <MimeType objectName="x-world/x-vrml">x-world/x-vrml</MimeType>
+    <MimeType objectName="application/octet-stream">application/octet-stream</MimeType>
+    <MimeType objectName="image/g3fax" FileName="images.png">image/g3fax</MimeType>
+    <MimeType objectName="application/x-dos_ms_word" FileName="doc.png">application/x-dos_ms_word</MimeType>
+    <MimeType objectName="application/slate">application/slate</MimeType>
+    <MimeType objectName="application/atomicmail">application/atomicmail</MimeType>
+    <MimeType objectName="image/x-photo-cd" FileName="images.png">image/x-photo-cd</MimeType>
+    <MimeType objectName="application/hdf">application/hdf</MimeType>
+    <MimeType objectName="application/x-troff-ms">application/x-troff-ms</MimeType>
+    <MimeType objectName="image/x-xwindowdump" FileName="images.png">image/x-xwindowdump</MimeType>
+    <MimeType objectName="application/x-dirview">application/x-dirview</MimeType>
+    <MimeType objectName="multipart/appledouble">multipart/appledouble</MimeType>
+    <MimeType objectName="image/x-rgb" FileName="images.png">image/x-rgb</MimeType>
+    <MimeType objectName="application/x-wais-source">application/x-wais-source</MimeType>
+    <MimeType objectName="application/vnd.koan">application/vnd.koan</MimeType>
+    <MimeType objectName="x-model/x-mesh">x-model/x-mesh</MimeType>
+    <MimeType objectName="application/x-troff-me">application/x-troff-me</MimeType>
+    <MimeType objectName="application/x-inperson-call">application/x-inperson-call</MimeType>
+    <MimeType objectName="application/msword" FileName="doc.png">application/msword</MimeType>
+    <MimeType objectName="application/vnd.ms-works">application/vnd.ms-works</MimeType>
+    <MimeType objectName="application/riscos">application/riscos</MimeType>
+    <MimeType objectName="image/x-sgi-bw" FileName="images.png">image/x-sgi-bw</MimeType>
+    <MimeType objectName="audio/x-mpeg2" FileName="sound.png">audio/x-mpeg2</MimeType>
+    <MimeType objectName="image/wavelet" FileName="images.png">image/wavelet</MimeType>
+    <MimeType objectName="video/vnd.vivo" FileName="video.png">video/vnd.vivo</MimeType>
+    <MimeType objectName="application/sgml">application/sgml</MimeType>
+    <MimeType objectName="application/x-perl">application/x-perl</MimeType>
+    <MimeType objectName="image/x-ms-bmp" FileName="images.png">image/x-ms-bmp</MimeType>
+    <MimeType objectName="application/vnd.mif">application/vnd.mif</MimeType>
+    <MimeType objectName="application/ms-excel" FileName="kspread_ksp.png">application/ms-excel</MimeType>
+    <MimeType objectName="text/plain" FileName="txt.png">text/plain</MimeType>
+    <MimeType objectName="application/fractals">application/fractals</MimeType>
+    <MimeType objectName="image/rgb" FileName="images.png">image/rgb</MimeType>
+    <MimeType objectName="application/pdf" FileName="pdf.png">application/pdf</MimeType>
+    <MimeType objectName="application/x-msexcel" FileName="kspread_ksp.png">application/x-msexcel</MimeType>
+    <MimeType objectName="application/msexcel" FileName="kspread_ksp.png">application/msexcel</MimeType>
+    <MimeType objectName="multipart/mixed">multipart/mixed</MimeType>
+    <MimeType objectName="application/x-annotator">application/x-annotator</MimeType>
+    <MimeType objectName="image/x-portable-bitmap" FileName="images.png">image/x-portable-bitmap</MimeType>
+    <MimeType objectName="application/zip" FileName="zip.png">application/zip</MimeType>
+    <MimeType objectName="application/vnd.music-niff" FileName="sound.png">application/vnd.music-niff</MimeType>
+    <MimeType objectName="application/andrew-inset">application/andrew-inset</MimeType>
+    <MimeType objectName="application/x-director">application/x-director</MimeType>
+    <MimeType objectName="message/partial">message/partial</MimeType>
+    <MimeType objectName="application/applefile">application/applefile</MimeType>
+    <MimeType objectName="multipart/report">multipart/report</MimeType>
+    <MimeType objectName="text/html" FileName="html.png">text/html</MimeType>
+    <MimeType objectName="application/x-sgi-lpr">application/x-sgi-lpr</MimeType>
+    <MimeType objectName="application/x-cosmobuilder">application/x-cosmobuilder</MimeType>
+    <MimeType objectName="application/ccv">application/ccv</MimeType>
+    <MimeType objectName="application/news-message-id">application/news-message-id</MimeType>
+    <MimeType objectName="application/x-fax-manager">application/x-fax-manager</MimeType>
+    <MimeType objectName="application/dsssl">application/dsssl</MimeType>
+    <MimeType objectName="application/vis5d">application/vis5d</MimeType>
+    <MimeType objectName="application/x-maker">application/x-maker</MimeType>
+    <MimeType objectName="application/mbedlet">application/mbedlet</MimeType>
+    <MimeType objectName="video/x-sgi-movie" FileName="video.png">video/x-sgi-movie</MimeType>
+    <MimeType objectName="application/x-latex">application/x-latex</MimeType>
+    <MimeType objectName="chemical/*">chemical/*</MimeType>
+    <MimeType objectName="graphics/x-inventor">graphics/x-inventor</MimeType>
+    <MimeType objectName="application/mac-binhex40">application/mac-binhex40</MimeType>
+    <MimeType objectName="application/fastman">application/fastman</MimeType>
+    <MimeType objectName="multipart/digest">multipart/digest</MimeType>
+    <MimeType objectName="application/x-enterlicense">application/x-enterlicense</MimeType>
+    <MimeType objectName="image/x-cmx" FileName="images.png">image/x-cmx</MimeType>
+    <MimeType objectName="application/x-pn-realaudio" FileName="real.png">application/x-pn-realaudio</MimeType>
+    <MimeType objectName="video/vivo" FileName="video.png">video/vivo</MimeType>
+    <MimeType objectName="application/x-pn-realaudio-plugin" FileName="real.png">application/x-pn-realaudio-plugin
+    </MimeType>
+    <MimeType objectName="image/x-mgx-dsf" FileName="images.png">image/x-mgx-dsf</MimeType>
+    <MimeType objectName="application/msproject">application/msproject</MimeType>
+    <MimeType objectName="application/x-stuffit" FileName="zip.png">application/x-stuffit</MimeType>
+    <MimeType objectName="x-world/x-wvr">x-world/x-wvr</MimeType>
+    <MimeType objectName="application/x-gzip" FileName="zip.png">application/x-gzip</MimeType>
+    <MimeType objectName="application/x-shar">application/x-shar</MimeType>
+    <MimeType objectName="audio/x-mpeg" FileName="sound.png">audio/x-mpeg</MimeType>
+    <MimeType objectName="application/x-cpio">application/x-cpio</MimeType>
+    <MimeType objectName="x-world/x-svr">x-world/x-svr</MimeType>
+    <MimeType objectName="multipart/form-data">multipart/form-data</MimeType>
+    <MimeType objectName="application/mshelp">application/mshelp</MimeType>
+    <MimeType objectName="application/x-www-local-exec">application/x-www-local-exec</MimeType>
+    <MimeType objectName="application/x-showcase">application/x-showcase</MimeType>
+    <MimeType objectName="application/wordperfect5.1" FileName="doc.png">application/wordperfect5.1</MimeType>
+    <MimeType objectName="application/oda">application/oda</MimeType>
+    <MimeType objectName="application/vnd.artgalry">application/vnd.artgalry</MimeType>
+    <MimeType objectName="application/astound">application/astound</MimeType>
+</MimeTypes>

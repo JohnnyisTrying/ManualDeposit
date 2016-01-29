@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<template>
+  <template>
+    <CMSDescription objectName="CMSDescription.3" SortOrder="3">Agroforestry, Sustainable forestry, Sustainable agriculture</CMSDescription>
+    <PostProcessingUndertaken objectName="PostProcessingUndertaken.9" SortOrder="9">true</PostProcessingUndertaken>
+    <Date objectName="Date.7" SortOrder="7">18/Dec/2007</Date>
+    <CMSSystem objectName="CMSSystem.2" SortOrder="2">Voyager</CMSSystem>
+    <Source objectName="Source.6" SortOrder="6">Quadrega</Source>
+    <ProvenanceEvent objectName="ProvenanceEvent.15" SortOrder="15">You hippopotamic land mass</ProvenanceEvent>
+    <CMSIdentifier objectName="CMSIdentifier.1" SortOrder="1">121867</CMSIdentifier>
+    <ProvenanceEvent objectName="ProvenanceEvent.14" SortOrder="14">Chello. You killed my father. Prepare to die.</ProvenanceEvent>
+    <SubmissionReason objectName="SubmissionReason.10" SortOrder="10">You keep using that word. I do not think it means what you think it means</SubmissionReason>
+  </template>
+</template>

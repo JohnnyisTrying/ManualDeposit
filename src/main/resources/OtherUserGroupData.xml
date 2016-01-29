@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<UserData>
+  <Documentation>To edit this file, use Indigo.exe /MetaData</Documentation>
+  <UserData objectName="UserData" IncludeNoCMSOption="false" NoCMSMetaDataFile="./src/main/resources/MetaData/MetaData.xml" MaterialFlowID="6" IncludeCMS1Search="true" CMS2MetaDataFile="./src/main/resources/MetaData/MetaData.xml" StaffMediatedMetaDataFile="./src/main/resources/MetaData/MetaDataStaffMediated.xml" SharedTemplateLocation="I:\Hokai\SharedTemplates" IncludeProducerList="true" IncludeMultiEntityMenuItem="true" InterimFileLocation="C:\Temp\InterimCleanup" CleanupDelay="1" CleanupType="Delayed" UserProducerID="27354" CMS1MetaDataFile="./src/main/resources/MetaData/MetaData.xml" FileTypeDescriptionPropertyFile="C:\JavaDev\projects\ManualDeposit\src\main\resources\fileTypes.xml" IncludeCMS2Search="true"/>
+</UserData>

@@ -1,0 +1,41 @@
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>C:\AppDev\workspace\ManualDeposit\ManualDeposit\target\ManualDeposit-2.8-SNAPSHOT.jar</jar>
+  <outfile>C:\AppDev\workspace\ManualDeposit\ManualDeposit\Install\Indigo\INDIGO.exe</outfile>
+  <errTitle></errTitle>
+  <cmdLine></cmdLine>
+  <chdir></chdir>
+  <priority>normal</priority>
+  <downloadUrl>http://java.com/download</downloadUrl>
+  <supportUrl></supportUrl>
+  <customProcName>false</customProcName>
+  <stayAlive>false</stayAlive>
+  <manifest></manifest>
+  <icon>C:\AppDev\workspace\ManualDeposit\ManualDeposit\Indigo\INDIGO_icon.ico</icon>
+  <classPath>
+    <mainClass>nz.govt.natlib.ndha.manualdeposit.App</mainClass>
+    <cp>dependency/*</cp>
+  </classPath>
+  <jre>
+    <path>jre1.6.0_35</path>
+    <minVersion></minVersion>
+    <maxVersion></maxVersion>
+    <jdkPreference>preferJre</jdkPreference>
+    <initialHeapSize>256</initialHeapSize>
+    <maxHeapSize>512</maxHeapSize>
+  </jre>
+  <splash>
+    <file>C:\AppDev\workspace\ManualDeposit\ManualDeposit\Indigo\indigo_splash.bmp</file>
+    <waitForWindow>true</waitForWindow>
+    <timeout>100</timeout>
+    <timeoutErr>true</timeoutErr>
+  </splash>
+  <messages>
+    <startupErr>An error occurred while starting the application.</startupErr>
+    <bundledJreErr>This application was configured to use a bundled Java Runtime Environment but the runtime is missing or corrupted.</bundledJreErr>
+    <jreVersionErr>This application requires a Java Runtime Environment</jreVersionErr>
+    <launcherErr>The registry refers to a nonexistent Java Runtime Environment installation or the runtime is corrupted.</launcherErr>
+    <instanceAlreadyExistsMsg>An application instance is already running.</instanceAlreadyExistsMsg>
+  </messages>
+</launch4jConfig>

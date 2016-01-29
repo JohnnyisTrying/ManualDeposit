@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<StructMapCollection>
+  <StructMap objectName="Chapter3" SortOrder="3" StructureName="Chapter3">
+    <StructMap objectName="Page 7" SortOrder="1" StructureName="Page 7"/>
+    <StructMap objectName="Page 8" SortOrder="2" StructureName="Page 8"/>
+  </StructMap>
+  <StructMap objectName="Chapter2" SortOrder="2" StructureName="Chapter2">
+    <StructMap objectName="Page 5" SortOrder="2" StructureName="Page 5"/>
+    <StructMap objectName="Page 6" SortOrder="3" StructureName="Page 6"/>
+    <StructMap objectName="Page 4" SortOrder="1" StructureName="Page 4"/>
+  </StructMap>
+  <StructMap objectName="Chapter1" SortOrder="1" StructureName="Chapter1">
+    <StructMap objectName="Page 1" SortOrder="1" StructureName="Page 1"/>
+    <StructMap objectName="Page 2" SortOrder="2" StructureName="Page 2"/>
+    <StructMap objectName="Page 3" SortOrder="3" StructureName="Page 3"/>
+  </StructMap>
+</StructMapCollection>

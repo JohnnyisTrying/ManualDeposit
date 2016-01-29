@@ -1,0 +1,238 @@
+DEBUG 2016-01-29 14:25:43.495 -setCMS2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:25:43.495 -setCMS2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:25:43.496 -setCMS1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?
+DEBUG 2016-01-29 14:25:43.496 -setCMS1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?
+DEBUG 2016-01-29 14:25:43.496 -setCMS2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:25:43.496 -setCMS2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:25:43.496 -setCMS1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?
+DEBUG 2016-01-29 14:25:43.496 -setCMS1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?
+DEBUG 2016-01-29 14:25:44.673 -setCMS1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?
+DEBUG 2016-01-29 14:25:44.673 -setCMS1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?
+DEBUG 2016-01-29 14:25:44.674 -getIndexList, cms1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?, cms2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:25:44.674 -getIndexList, cms1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?, cms2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:25:45.581 -setCMS2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:25:45.581 -setCMS2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:25:45.581 -getIndexList, cms1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?, cms2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:25:45.581 -getIndexList, cms1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?, cms2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:25:47.114 -Login class: nz.govt.natlib.ndha.common.exlibris.Login
+DEBUG 2016-01-29 14:25:47.115 -logging in with mngroot
+DEBUG 2016-01-29 14:25:47.115 -logging in with 
+DEBUG 2016-01-29 14:25:47.215 -logging in with 
+DEBUG 2016-01-29 14:25:47.315 -logging in with 
+DEBUG 2016-01-29 14:25:47.570 -Login class: nz.govt.natlib.ndha.common.exlibris.Login
+DEBUG 2016-01-29 14:25:47.621 -setCMS1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?
+DEBUG 2016-01-29 14:25:47.621 -setCMS1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?
+DEBUG 2016-01-29 14:25:47.621 -getIndexList, cms1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?, cms2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:25:47.621 -getIndexList, cms1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?, cms2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:25:47.674 -setCMS2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:25:47.674 -setCMS2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:25:47.674 -getIndexList, cms1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?, cms2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:25:47.674 -getIndexList, cms1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?, cms2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:25:47.966 -setCMS1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?
+DEBUG 2016-01-29 14:25:47.966 -setCMS1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?
+DEBUG 2016-01-29 14:25:47.968 -getIndexList, cms1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?, cms2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:25:47.968 -getIndexList, cms1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?, cms2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:25:48.508 -setCMS2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:25:48.508 -setCMS2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:25:48.508 -getIndexList, cms1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?, cms2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:25:48.508 -getIndexList, cms1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?, cms2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:25:50.348 -setCMS1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?
+DEBUG 2016-01-29 14:25:50.348 -setCMS1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?
+DEBUG 2016-01-29 14:25:50.350 -getIndexList, cms1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?, cms2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:25:50.350 -getIndexList, cms1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?, cms2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:25:50.399 -setCMS2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:25:50.399 -setCMS2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:25:50.399 -getIndexList, cms1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?, cms2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:25:50.399 -getIndexList, cms1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?, cms2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:25:50.666 -setCMS1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?
+DEBUG 2016-01-29 14:25:50.666 -setCMS1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?
+DEBUG 2016-01-29 14:25:50.666 -getIndexList, cms1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?, cms2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:25:50.666 -getIndexList, cms1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?, cms2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:25:52.086 -setCMS2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:25:52.086 -setCMS2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:25:52.087 -getIndexList, cms1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?, cms2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:25:52.087 -getIndexList, cms1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?, cms2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:25:53.478 -setCMS1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?
+DEBUG 2016-01-29 14:25:53.478 -setCMS1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?
+DEBUG 2016-01-29 14:25:53.479 -getIndexList, cms1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?, cms2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:25:53.479 -getIndexList, cms1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?, cms2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:25:54.993 -setCMS2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:25:54.993 -setCMS2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:25:54.995 -getIndexList, cms1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?, cms2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:25:54.995 -getIndexList, cms1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?, cms2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:25:55.258 -setCMS1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?
+DEBUG 2016-01-29 14:25:55.258 -setCMS1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?
+DEBUG 2016-01-29 14:25:55.258 -getIndexList, cms1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?, cms2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:25:55.258 -getIndexList, cms1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?, cms2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:25:56.771 -setCMS2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:25:56.771 -setCMS2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:25:56.772 -getIndexList, cms1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?, cms2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:25:56.772 -getIndexList, cms1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?, cms2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:25:57.133 -setCMS1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?
+DEBUG 2016-01-29 14:25:57.133 -setCMS1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?
+DEBUG 2016-01-29 14:25:57.134 -getIndexList, cms1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?, cms2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:25:57.134 -getIndexList, cms1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?, cms2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:25:57.175 -setCMS2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:25:57.175 -setCMS2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:25:57.175 -getIndexList, cms1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?, cms2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:25:57.175 -getIndexList, cms1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?, cms2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:25:57.430 -setCMS1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?
+DEBUG 2016-01-29 14:25:57.430 -setCMS1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?
+DEBUG 2016-01-29 14:25:57.430 -getIndexList, cms1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?, cms2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:25:57.430 -getIndexList, cms1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?, cms2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:25:59.197 -setCMS2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:25:59.197 -setCMS2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:25:59.197 -getIndexList, cms1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?, cms2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:25:59.197 -getIndexList, cms1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?, cms2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:26:00.518 -setCMS1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?
+DEBUG 2016-01-29 14:26:00.518 -setCMS1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?
+DEBUG 2016-01-29 14:26:00.518 -getIndexList, cms1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?, cms2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:26:00.518 -getIndexList, cms1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?, cms2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:26:00.546 -setCMS2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:26:00.546 -setCMS2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:26:00.547 -getIndexList, cms1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?, cms2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:26:00.547 -getIndexList, cms1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?, cms2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:26:00.889 -setCMS1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?
+DEBUG 2016-01-29 14:26:00.889 -setCMS1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?
+DEBUG 2016-01-29 14:26:00.889 -getIndexList, cms1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?, cms2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:26:00.889 -getIndexList, cms1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?, cms2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:26:00.964 -setCMS2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:26:00.964 -setCMS2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:26:00.964 -getIndexList, cms1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?, cms2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:26:00.964 -getIndexList, cms1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?, cms2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:26:01.419 -setCMS1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?
+DEBUG 2016-01-29 14:26:01.419 -setCMS1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?
+DEBUG 2016-01-29 14:26:01.420 -getIndexList, cms1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?, cms2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:26:01.420 -getIndexList, cms1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?, cms2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:26:01.448 -setCMS2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:26:01.448 -setCMS2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:26:01.448 -getIndexList, cms1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?, cms2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:26:01.448 -getIndexList, cms1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?, cms2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:26:04.594 -setCMS1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?
+DEBUG 2016-01-29 14:26:04.594 -setCMS1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?
+DEBUG 2016-01-29 14:26:04.594 -getIndexList, cms1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?, cms2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:26:04.594 -getIndexList, cms1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?, cms2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:26:06.486 -setCMS2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:26:06.486 -setCMS2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:26:06.487 -getIndexList, cms1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?, cms2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:26:06.487 -getIndexList, cms1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?, cms2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:26:06.738 -setCMS1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?
+DEBUG 2016-01-29 14:26:06.738 -setCMS1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?
+DEBUG 2016-01-29 14:26:06.739 -getIndexList, cms1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?, cms2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:26:06.739 -getIndexList, cms1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?, cms2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:26:09.469 -setCMS2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:26:09.469 -setCMS2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:26:09.469 -getIndexList, cms1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?, cms2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:26:09.469 -getIndexList, cms1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?, cms2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:26:09.738 -setCMS1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?
+DEBUG 2016-01-29 14:26:09.738 -setCMS1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?
+DEBUG 2016-01-29 14:26:09.738 -getIndexList, cms1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?, cms2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:26:09.738 -getIndexList, cms1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?, cms2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:26:09.781 -setCMS2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:26:09.781 -setCMS2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:26:09.781 -getIndexList, cms1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?, cms2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:26:09.781 -getIndexList, cms1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?, cms2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:26:10.052 -setCMS1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?
+DEBUG 2016-01-29 14:26:10.052 -setCMS1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?
+DEBUG 2016-01-29 14:26:10.052 -getIndexList, cms1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?, cms2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:26:10.052 -getIndexList, cms1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?, cms2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:26:12.787 -setCMS2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:26:12.787 -setCMS2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:26:12.788 -getIndexList, cms1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?, cms2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:26:12.788 -getIndexList, cms1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?, cms2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:26:13.053 -setCMS1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?
+DEBUG 2016-01-29 14:26:13.053 -setCMS1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?
+DEBUG 2016-01-29 14:26:13.053 -getIndexList, cms1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?, cms2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:26:13.053 -getIndexList, cms1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?, cms2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:26:13.091 -setCMS2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:26:13.091 -setCMS2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:26:13.091 -getIndexList, cms1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?, cms2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:26:13.091 -getIndexList, cms1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?, cms2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:26:13.346 -setCMS1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?
+DEBUG 2016-01-29 14:26:13.346 -setCMS1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?
+DEBUG 2016-01-29 14:26:13.347 -getIndexList, cms1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?, cms2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:26:13.347 -getIndexList, cms1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?, cms2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:26:13.394 -setCMS2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:26:13.394 -setCMS2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:26:13.394 -getIndexList, cms1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?, cms2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:26:13.394 -getIndexList, cms1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?, cms2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:26:13.613 -setCMS1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?
+DEBUG 2016-01-29 14:26:13.613 -setCMS1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?
+DEBUG 2016-01-29 14:26:13.614 -getIndexList, cms1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?, cms2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:26:13.614 -getIndexList, cms1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?, cms2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:26:13.645 -setCMS2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:26:13.645 -setCMS2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:26:13.645 -getIndexList, cms1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?, cms2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:26:13.645 -getIndexList, cms1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?, cms2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:26:13.874 -setCMS1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?
+DEBUG 2016-01-29 14:26:13.874 -setCMS1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?
+DEBUG 2016-01-29 14:26:13.875 -getIndexList, cms1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?, cms2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:26:13.875 -getIndexList, cms1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?, cms2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:26:13.905 -setCMS2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:26:13.905 -setCMS2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:26:13.905 -getIndexList, cms1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?, cms2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:26:13.905 -getIndexList, cms1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?, cms2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:26:14.358 -setCMS1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?
+DEBUG 2016-01-29 14:26:14.358 -setCMS1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?
+DEBUG 2016-01-29 14:26:14.358 -getIndexList, cms1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?, cms2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:26:14.358 -getIndexList, cms1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?, cms2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:26:14.396 -setCMS2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:26:14.396 -setCMS2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:26:14.396 -getIndexList, cms1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?, cms2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:26:14.396 -getIndexList, cms1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?, cms2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:26:14.648 -setCMS1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?
+DEBUG 2016-01-29 14:26:14.648 -setCMS1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?
+DEBUG 2016-01-29 14:26:14.648 -getIndexList, cms1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?, cms2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:26:14.648 -getIndexList, cms1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?, cms2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:26:14.685 -setCMS2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:26:14.685 -setCMS2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:26:14.685 -getIndexList, cms1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?, cms2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:26:14.685 -getIndexList, cms1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?, cms2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:26:14.909 -setCMS1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?
+DEBUG 2016-01-29 14:26:14.909 -setCMS1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?
+DEBUG 2016-01-29 14:26:14.909 -getIndexList, cms1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?, cms2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:26:14.909 -getIndexList, cms1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?, cms2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:26:14.954 -setCMS2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:26:14.954 -setCMS2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:26:14.954 -getIndexList, cms1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?, cms2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:26:14.954 -getIndexList, cms1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?, cms2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:26:15.376 -setCMS1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?
+DEBUG 2016-01-29 14:26:15.376 -setCMS1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?
+DEBUG 2016-01-29 14:26:15.377 -getIndexList, cms1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?, cms2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:26:15.377 -getIndexList, cms1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?, cms2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:26:15.409 -setCMS2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:26:15.409 -setCMS2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:26:15.409 -getIndexList, cms1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?, cms2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:26:15.409 -getIndexList, cms1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?, cms2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:26:15.681 -setCMS1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?
+DEBUG 2016-01-29 14:26:15.681 -setCMS1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?
+DEBUG 2016-01-29 14:26:15.682 -getIndexList, cms1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?, cms2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:26:15.682 -getIndexList, cms1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?, cms2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:26:15.720 -setCMS2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:26:15.720 -setCMS2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:26:15.720 -getIndexList, cms1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?, cms2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:26:15.720 -getIndexList, cms1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?, cms2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:26:16.244 -setCMS1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?
+DEBUG 2016-01-29 14:26:16.244 -setCMS1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?
+DEBUG 2016-01-29 14:26:16.245 -getIndexList, cms1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?, cms2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:26:16.245 -getIndexList, cms1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?, cms2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:26:16.278 -setCMS2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:26:16.278 -setCMS2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:26:16.279 -getIndexList, cms1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?, cms2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:26:16.279 -getIndexList, cms1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?, cms2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:26:17.622 -setCMS1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?
+DEBUG 2016-01-29 14:26:17.622 -setCMS1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?
+DEBUG 2016-01-29 14:26:17.622 -getIndexList, cms1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?, cms2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:26:17.622 -getIndexList, cms1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?, cms2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:26:17.756 -setCMS2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:26:17.756 -setCMS2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:26:17.756 -getIndexList, cms1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?, cms2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:26:17.756 -getIndexList, cms1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?, cms2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:26:19.091 -setCMS1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?
+DEBUG 2016-01-29 14:26:19.091 -setCMS1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?
+DEBUG 2016-01-29 14:26:19.091 -getIndexList, cms1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?, cms2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:26:19.091 -getIndexList, cms1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?, cms2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:26:22.033 -setCMS2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:26:22.033 -setCMS2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:26:22.033 -getIndexList, cms1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?, cms2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?
+DEBUG 2016-01-29 14:26:22.033 -getIndexList, cms1ServerUrl: http://srusrw.natlib.govt.nz/VOYAGER?, cms2ServerUrl: http://tapuhi.natlib.govt.nz/cgi-bin/spydus/sru?

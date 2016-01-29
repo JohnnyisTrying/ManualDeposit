@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<UserData>
+  <Documentation>To edit this file, use Indigo.exe /MetaData</Documentation>
+  <UserData objectName="UserData" IncludeNoCMSOption="false" NoCMSMetaDataFile="./src/main/resources/Metadata/Unpublished MetaData.xml" MaterialFlowID="8" IncludeCMS1Search="false" CMS2MetaDataFile="./src/main/resources/Metadata/Unpublished MetaData.xml" StaffMediatedMetaDataFile="./src/main/resources/Metadata/Unpublished MetaData.xml" SharedTemplateLocation="I:\UAT\SharedTemplates" IncludeProducerList="true" IncludeMultiEntityMenuItem="true" InterimFileLocation="C:\Temp\IndigoCleanup" CleanupDelay="1" CleanupType="None" UserProducerID="235422" CMS1MetaDataFile="./src/main/resources/Metadata/Unpublished MetaData.xml" FileTypeDescriptionPropertyFile="I:\UAT\fileTypes.xml" BulkBatchSize="1" IncludeCMS2Search="true" UserGroupDesc="StaffMediated">
+    <CharacterTranslation objectName="Char_@@" TranslateTo="/" Position="Anywhere" CharacterToTranslate="@@"/>
+    <CharacterTranslation objectName="Char_@." TranslateTo="." Position="Beginning" CharacterToTranslate="@."/>
+  </UserData>
+</UserData>

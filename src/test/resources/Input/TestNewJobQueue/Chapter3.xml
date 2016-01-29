@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<StructMap>
+    <StructMap objectName="Chapter3" SortOrder="4" StructureName="Chapter3">
+        <StructMap objectName="Page 7" SortOrder="2" StructureName="Page 7">
+            <FileSystemObject objectName="test_87_thumb_7.jpg" Description="test_87_thumb_7.jpg" SortOrder="2"
+                              File="./src/test/resources/Input/NamedStuff/AC_Thumbnails/Chapter3/P_7_test_87_thumb_7.jpg"
+                              SequenceNo="0"/>
+            <FileSystemObject objectName="test_87_archive_7.jpg" Description="test_87_archive_7.jpg" SortOrder="4"
+                              File="./src/test/resources/Input/NamedStuff/DO_Originals/Chapter3/P_7_test_87_archive_7.jpg"
+                              SequenceNo="0"/>
+            <FileSystemObject objectName="test_87_view_7.jpg" Description="test_87_view_7.jpg" SortOrder="3"
+                              File="./src/test/resources/Input/NamedStuff/AC_ Display/Chapter3/P_7_test_87_view_7.jpg"
+                              SequenceNo="0"/>
+        </StructMap>
+        <StructMap objectName="Page 8" SortOrder="3" StructureName="Page 8">
+            <FileSystemObject objectName="test_87_thumb_8.jpg" Description="test_87_thumb_8.jpg" SortOrder="3"
+                              File="./src/test/resources/Input/NamedStuff/AC_Thumbnails/Chapter3/P_8_test_87_thumb_8.jpg"
+                              SequenceNo="0"/>
+            <FileSystemObject objectName="test_87_view_8.jpg" Description="test_87_view_8.jpg" SortOrder="4"
+                              File="./src/test/resources/Input/NamedStuff/AC_ Display/Chapter3/P_8_test_87_view_8.jpg"
+                              SequenceNo="0"/>
+            <FileSystemObject objectName="test_87_archive_8.jpg" Description="test_87_archive_8.jpg" SortOrder="5"
+                              File="./src/test/resources/Input/NamedStuff/DO_Originals/Chapter3/P_8_test_87_archive_8.jpg"
+                              SequenceNo="0"/>
+        </StructMap>
+    </StructMap>
+</StructMap>

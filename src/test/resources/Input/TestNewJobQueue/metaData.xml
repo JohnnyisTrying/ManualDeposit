@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<MetaData>
+    <MetaData objectName="13" DataType="Text" AllowsMultipleRows="false" DataFieldDescription="Geographical Information"
+              SortOrder="13" DataFieldName="GeographicalInformation" SavedWithTemplate="true" IsCompulsory="false"
+              IsSetBySystem="false"/>
+    <MetaData objectName="14" DataType="Text" AllowsMultipleRows="true" DataFieldDescription="Provenance Event"
+              SortOrder="14" DataFieldName="ProvenanceEvent" SavedWithTemplate="true" IsCompulsory="false"
+              IsSetBySystem="false"/>
+    <MetaData objectName="11" DataType="Text" AllowsMultipleRows="false" DataFieldDescription="Submitted by"
+              SortOrder="11" DataFieldName="SubmittedBy" SavedWithTemplate="false" IsCompulsory="false"
+              DataFieldValue="PlayerM" IsSetBySystem="true"/>
+    <MetaData objectName="3" DataType="Text" AllowsMultipleRows="false" DataFieldDescription="Reference Number"
+              SortOrder="3" DataFieldName="ReferenceNumber" SavedWithTemplate="true" IsCompulsory="false"
+              IsSetBySystem="false"/>
+    <MetaData objectName="2" DataType="MultiSelect" AllowsMultipleRows="false" DataFieldDescription="CMS System"
+              SortOrder="2" DataFieldName="CMSSystem" ListItems_0="Tapuhi" SavedWithTemplate="true" ListItemCount="2"
+              IsCompulsory="true" ListItems_1="Voyager" IsSetBySystem="false" DataFieldValue="Tapuhi"/>
+    <MetaData objectName="1" DataType="Text" AllowsMultipleRows="false" DataFieldDescription="CMS Identifier"
+              SortOrder="1" DataFieldName="CMSIdentifier" SavedWithTemplate="true" IsCompulsory="true"
+              IsSetBySystem="false" DataFieldValue="100"/>
+    <MetaData objectName="10" DataType="Text" AllowsMultipleRows="false" DataFieldDescription="Representation Role"
+              SortOrder="10" DataFieldName="RepresentationRole" SavedWithTemplate="true" IsCompulsory="false"
+              IsSetBySystem="false"/>
+    <MetaData objectName="7" DataType="Text" AllowsMultipleRows="false" DataFieldDescription="Created by" SortOrder="7"
+              DataFieldName="Creator" SavedWithTemplate="true" IsCompulsory="false" IsSetBySystem="false"/>
+    <MetaData objectName="6" DataType="Date" AllowsMultipleRows="false" DataFieldDescription="Date Created"
+              SortOrder="6" DataFieldName="Date" SavedWithTemplate="true" IsCompulsory="false" IsSetBySystem="false"/>
+    <MetaData objectName="5" DataType="MultiSelect" AllowsMultipleRows="false" SortOrder="5" ListItemCount="3"
+              IsCompulsory="false" DataFieldName="Source" DataFieldDescription="Capture System" ListItems_0="Quadrega"
+              SavedWithTemplate="true" ListItems_1="Trirega" ListItems_2="Quintrega" IsSetBySystem="false"/>
+    <MetaData objectName="4" DataType="Text" AllowsMultipleRows="false" DataFieldDescription="Access Restriction"
+              SortOrder="4" DataFieldName="AccessRestriction" SavedWithTemplate="true" IsCompulsory="false"
+              IsSetBySystem="false"/>
+    <MetaData objectName="9" DataType="Text" AllowsMultipleRows="false" DataFieldDescription="Submission Reason"
+              SortOrder="9" DataFieldName="SubmissionReason" SavedWithTemplate="true" IsCompulsory="false"
+              IsSetBySystem="false"/>
+    <MetaData objectName="8" DataType="Boolean" AllowsMultipleRows="false"
+              DataFieldDescription="Post Processing Undertaken" SortOrder="8" DataFieldName="PostProcessingUndertaken"
+              SavedWithTemplate="true" IsCompulsory="false" IsSetBySystem="false"/>
+</MetaData>

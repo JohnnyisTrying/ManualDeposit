@@ -1,0 +1,25 @@
+@CHARSET "ISO-8859-1";
+body{
+	color:black;
+	background:white;
+	font-size:12px;
+	font-family:Arial,Helvetica;
+}
+
+H1{
+	font-size:16px;
+	font-family:Arial,Helvetica;
+	font-weight: bold
+}
+
+H2{
+	font-size:14px;
+	font-family:Arial,Helvetica;
+	font-weight: bold
+}
+
+H3{
+	font-size:12px;
+	font-family:Arial,Helvetica;
+	font-weight: bold
+}

@@ -1,0 +1,149 @@
+
+#**********************************************************************
+#
+#  .twmrc
+#
+#**********************************************************************
+
+IconRegion      "600x200-0-0" SOUTH EAST 75 25
+
+
+TitleFont       "-*-new century schoolbook-bold-r-normal--*-120-*-*-*-*-iso8859-1"
+MenuFont        "-*-new century schoolbook-bold-r-normal--*-140-*-*-*-*-iso8859-1"
+IconFont        "-*-helvetica-bold-r-normal--*-140-*-*-*-*-iso8859-1"
+ResizeFont      "-*-helvetica-bold-r-normal--*-120-*-*-*-*-iso8859-1"
+IconmanagerFont "-*-helvetica-bold-r-normal--*-120-*-*-*-*-iso8859-1"
+
+ShowIconManager
+SortIconManager
+OpaqueMove
+#DontMoveOff
+IconManagerGeometry     "=100x100+1049+297"
+
+
+
+Cursors
+{
+    Button "left_ptr"
+    Menu "right_ptr"
+    Title "center_ptr"
+    Frame "crosshair"
+    Icon "spider"
+    Resize "sizing"
+    IconMgr "bogosity"
+}
+
+Color
+{
+  DefaultBackground "blue"
+  DefaultForeground "white"
+  BorderColor "red"
+  TitleBackground "lightskyblue"
+  TitleForeground "maroon"
+  MenuBackground "palegoldenrod"
+  MenuForeground "black"
+  MenuTitleBackground "DodgerBlue"
+  MenuTitleForeground "linen"
+  IconBackground "#fffff0"
+  IconForeground "black"
+  IconBorderColor "black"
+  IconManagerBackground "pale turquoise"
+  IconManagerForeground "navy"
+}
+
+# define key bindings
+
+DefaultFunction f.nop
+
+Function "MoveRaiselower"	{ f.move f.raiselower }
+
+Button1 =       : title         : f.function "MoveRaiselower"
+Button2 =       : title         : f.menu "Title Menu"
+Button3 =       : title         : f.resize
+
+#Button3 = c m   : title         : f.destroy
+
+Button1 =       : root          : f.menu "Applications"
+Button2 =       : root          : f.menu "Hosts"
+Button3 =       : root          : f.menu "System"
+
+#Button1 =       : window         : f.function "MoveRaiselower"
+
+Icons
+{
+        "Xmh"           "/usr/include/X11/bitmaps/letters"
+        "XTerm"         "/usr/include/X11/bitmaps/terminal"
+}
+
+UnknownIcon     "/usr/include/X11/bitmaps/xlogo32"
+
+NoTitle
+{
+# "xclock"
+ "xeyes"
+ "xload"
+}
+
+
+menu "Applications"
+{
+"Applications"  f.title
+"Xman"          !"/usr/X/bin/xman &"
+"Calculator"    !"/usr/X/bin/xcalc &"
+"Notepad"       !"/usr/X/bin/xclipboard &"
+"Xterm"         !"/usr/X/bin/xterm -ls -sl 5000 -sb -bg black -fg white -geometry 130x35+0+0 &"
+}
+
+menu "System"
+{
+        "System"                f.title
+        "Window ops"            f.menu "Window Ops"
+        "Windows"               f.menu "TwmWindows"
+        ""                      f.nop
+        "Refresh"               f.refresh
+        "Unfocus"               f.unfocus
+        "Show Icon Box"         f.showiconmgr
+        "Hide Icon Box"         f.hideiconmgr
+        "Version"               f.version
+        ""                      f.nop
+        "Restart"               f.restart
+        "Logout"                f.quit
+}
+
+menu "Window Ops"
+{
+        "Window Ops"            f.title
+        "Lower"                 f.lower
+        "Raise"                 f.raise
+        "Resize"                f.resize
+        "Move"                  f.move
+        "Deiconify"             f.deiconify
+        "Iconify"               f.iconify
+        "Identify"              f.identify
+        "Focus"                 f.focus
+        "Kill"                  f.destroy
+}
+
+menu "Title Menu"
+{
+        "Lower"                 f.lower
+        "Raise"                 f.raise
+        "Resize"                f.resize
+        "Move"                  f.move
+        "Iconify"               f.iconify
+        "Identify"              f.identify
+        "Focus"                 f.focus
+        "Kill"                  f.destroy
+        "Dismiss"               f.delete
+}
+
+menu "Hosts"
+{
+        "Hosts"   f.title
+"vaxa"          !"xterm +j -T Vaxa      -sb -e telnet vaxa &"
+"vaxb"          !"xterm +j -T Vaxb      -sb  -e telnet vaxb &"
+"Wyvis"         !"xterm +j -T Wyvis     -sb -e rlogin wyvis &"
+"Arran"         !"xterm +j -T Arran     -sb -e rlogin arran &"
+"Gleneagles"    !"xterm +j -T Gleneagles -sb -e rlogin gleneagles &"
+}
+

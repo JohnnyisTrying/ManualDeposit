@@ -1,0 +1,4 @@
+# For directory dividers you must use \\ or / instead of \
+#
+ApplicationPropertiesFile=//nls1/data/data/ndha/config/AppProperties.xml
+UserDataFile=//nls1/data/data/ndha/config/Users.xml

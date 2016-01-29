@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE log4j:configuration SYSTEM "log4j.dtd">
+
+
+<!-- | For more configuration information and examples see the Jakarta Log4j | website: http://jakarta.apache.org/log4j -->
+
+<log4j:configuration xmlns:log4j="http://jakarta.apache.org/log4j/" debug="false">
+
+
+	<!-- A console appender for spitting other level messages to console. This can be enabled/disconnected via the logger sections below. -->
+	<appender name="Console_Appender" class="org.apache.log4j.ConsoleAppender">
+		<param name="Target" value="System.out" />
+		<layout class="org.apache.log4j.PatternLayout">
+			<param name="ConversionPattern" value="%-5p %d{yyyy-MM-dd HH:mm:ss.SSS} -%m%n" />
+			<!-- The default pattern: Date Priority [Category] Messagen -->
+			<!-- <param name="ConversionPattern" value="%d{ABSOLUTE} %-5p [%c{1}] %m%n"/> -->
+			<!-- <param name="ConversionPattern" value="%-5p %d{dd-MM HH:mm:ss,SSS} -%m%n"/> -->
+			<!-- <param name="ConversionPattern" value="_______________ %d{DATE} %-5p %c %t _______________%n%m%n"/> -->
+		</layout>
+	</appender>
+
+	<appender name="File_Appender" class="org.apache.log4j.RollingFileAppender">
+		<!-- <param name="Threshold" value="error"/> -->
+		<param name="File" value="Indigo.log" />
+		<param name="Append" value="true" />
+		<param name="MaxFileSize" value="1000KB" />
+		<param name="MaxBackupIndex" value="1" />
+		<layout class="org.apache.log4j.PatternLayout">
+			<param name="ConversionPattern" value="%-5p %d{yyyy-MM-dd HH:mm:ss.SSS} -%m%n" />
+			<!-- The default pattern: Date Priority [Category] Messagen -->
+			<!-- <param name="ConversionPattern" value="%d{ABSOLUTE} %-5p [%c{1}] %m%n"/> -->
+			<!-- <param name="ConversionPattern" value="%-5p %d{dd-MM HH:mm:ss,SSS} -%m%n"/> -->
+			<!-- <param name="ConversionPattern" value="_______________ %d{DATE} %-5p %c %t _______________%n%m%n"/> -->
+		</layout>
+
+	</appender>
+
+	<logger name="org.archive.io" additivity="false">
+		<level value="error" />
+		<appender-ref ref="Console_Appender" />
+		<appender-ref ref="File_Appender" />
+	</logger>
+
+	<logger name="nz.govt.natlib.ndha.common" additivity="false">
+		<level value="error" />
+		<appender-ref ref="Console_Appender" />
+		<appender-ref ref="File_Appender" />
+	</logger>
+	
+    <logger name="nz.govt.natlib.ndha.common.MD5Digest">
+        <level value="info"/>
+        <appender-ref ref="Console_Appender"/>
+        <appender-ref ref="File_Appender"/>
+    </logger>	
+
+	<logger name="nz.govt.natlib.ndha.common.mets.FileSystemObject" additivity="false">
+		<level value="error" />
+		<appender-ref ref="Console_Appender" />
+		<appender-ref ref="File_Appender" />
+	</logger>
+
+	<logger name="nz.govt.natlib.ndha.common.mets.FSOCollection" additivity="false">
+		<level value="error" />
+		<appender-ref ref="Console_Appender" />
+		<appender-ref ref="File_Appender" />
+	</logger>
+	
+    <logger name="nz.govt.natlib.ndha.common.ilsquery.SruSearchStrategyImpl">
+        <level value="debug"/>
+        <appender-ref ref="Console_Appender"/>
+        <appender-ref ref="File_Appender"/>
+    </logger>	
+	
+	<logger name="nz.govt.natlib.ndha.exlibrismetswriter.Deposit" additivity="false">
+		<level value="error" />
+		<appender-ref ref="Console_Appender" />
+		<appender-ref ref="File_Appender" />
+	</logger>	
+
+	<logger name="nz.govt.natlib.ndha.exlibrismetswriter.MetsWriterELImpl" additivity="false">
+		<level value="debug" />
+		<appender-ref ref="Console_Appender" />
+		<appender-ref ref="File_Appender" />
+	</logger>
+
+	<logger name="nz.govt.natlib.ndha.exlibrismetswriter.ExlibirisMetsWriterAdapter" additivity="false">
+		<level value="debug" />
+		<appender-ref ref="Console_Appender" />
+		<appender-ref ref="File_Appender" />
+	</logger>
+
+	<logger name="nz.govt.natlib.ndha.manualdeposit" additivity="false">
+		<level value="error" />
+		<appender-ref ref="Console_Appender" />
+		<appender-ref ref="File_Appender" />
+	</logger>
+	
+	<logger name="nz.govt.natlib.ndha.manualdeposit.App" additivity="false">
+		<level value="debug" />
+		<appender-ref ref="Console_Appender" />
+		<appender-ref ref="File_Appender" />
+	</logger>	
+
+	<logger name="nz.govt.natlib.ndha.manualdeposit.AppProperties" additivity="false">
+		<level value="debug" />
+		<appender-ref ref="Console_Appender" />
+	</logger>
+
+	<logger name="nz.govt.natlib.ndha.manualdeposit.ManualDepositPresenter" additivity="false">
+		<level value="debug" />
+		<appender-ref ref="Console_Appender" />
+	</logger>
+
+	<logger name="nz.govt.natlib.ndha.manualdeposit.ManualDepositPresenterTest" additivity="false">
+		<level value="error" />
+		<appender-ref ref="Console_Appender" />
+	</logger>
+
+	<logger name="nz.govt.natlib.ndha.manualdeposit.ManualDepositMain" additivity="false">
+		<level value="debug" />
+		<appender-ref ref="Console_Appender" />
+		<appender-ref ref="File_Appender" />
+	</logger>
+
+	<logger
+		name="nz.govt.natlib.ndha.manualdeposit.MetaDataConfiguratorPresenterTest" additivity="false">
+		<level value="error" />
+		<appender-ref ref="Console_Appender" />
+	</logger>
+
+	<logger name="nz.govt.natlib.ndha.manualdeposit.BulkUpload.BulkUploadItem" additivity="false">
+		<level value="debug" />
+		<appender-ref ref="Console_Appender" />
+		<appender-ref ref="File_Appender" />
+	</logger>
+
+	<logger
+		name="nz.govt.natlib.ndha.manualdeposit.jobManagement.JobQueueManagement" additivity="false">
+		<level value="error" />
+		<appender-ref ref="Console_Appender" />
+		<appender-ref ref="File_Appender" />
+	</logger>
+
+	<logger name="nz.govt.natlib.ndha.manualdeposit.jobManagement.UploadJob" additivity="false">
+		<level value="debug" />
+		<appender-ref ref="Console_Appender" />
+		<appender-ref ref="File_Appender" />
+	</logger>
+
+	<logger name="nz.govt.natlib.ndha.manualdeposit.login.LoginPresenter" additivity="false">
+		<level value="debug" />
+		<appender-ref ref="Console_Appender" />
+		<appender-ref ref="File_Appender" />
+	</logger>
+
+	<logger name="nz.govt.natlib.ndha.manualdeposit.LoginPresenterTest" additivity="false">
+		<level value="error" />
+		<appender-ref ref="Console_Appender" />
+	</logger>
+
+	<logger name="nz.govt.natlib.ndha.manualdeposit.LoginTest" additivity="false">
+		<level value="error" />
+		<appender-ref ref="Console_Appender" />
+	</logger>
+
+	<logger name="nz.govt.natlib.ndha.manualdeposit.metaData.ApplicationData" additivity="false">
+		<level value="debug" />
+		<appender-ref ref="Console_Appender" />
+		<appender-ref ref="File_Appender" />
+	</logger>
+
+	<root>
+		<priority value="error" />
+		<appender-ref ref="Console_Appender" />
+		<appender-ref ref="File_Appender" />
+	</root>
+
+</log4j:configuration>

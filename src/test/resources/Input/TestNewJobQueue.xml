@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Entity>
+    <EntityDescription SystemUser="mngroot" StreamsDirectory="./src/test/resources/Output/TestNewJobQueue/streams"
+                       EntityDirectory="./src/test/resources/Output/TestNewJobQueue" Status="Waiting..."
+                       MetaDataPath="./src/test/resources/JobQueue/TestNewJobQueue/metaData.xml" Creator="PlayerM"
+                       IsComplete="false" Failed="false" EntityName="TestNewJobQueue"
+                       JobQueuePath="./src/test/resources/JobQueue" TotalSizeAttr="1060956" SizeCopiedAttr="0"
+                       SavePath="./src/test/resources/Output" ProducerID="5" MaterialFlowID="5">
+        <FileGroupLocation xmlFile="./src/test/resources/JobQueue/TestNewJobQueue/Access Copy (3).xml"/>
+        <FileGroupLocation xmlFile="./src/test/resources/JobQueue/TestNewJobQueue/Access Copy (2).xml"/>
+        <StructMapLocation xmlFile="./src/test/resources/JobQueue/TestNewJobQueue/Chapter3.xml"/>
+        <StructMapLocation xmlFile="./src/test/resources/JobQueue/TestNewJobQueue/Chapter2.xml"/>
+        <StructMapLocation xmlFile="./src/test/resources/JobQueue/TestNewJobQueue/Chapter1.xml"/>
+        <StructMapLocation xmlFile="./src/test/resources/JobQueue/TestNewJobQueue/.svn.xml"/>
+        <FileGroupLocation xmlFile="./src/test/resources/JobQueue/TestNewJobQueue/Digital Original.xml"/>
+    </EntityDescription>
+</Entity>

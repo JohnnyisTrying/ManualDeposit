@@ -1,0 +1,147 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+	<head>
+		<title>File Naming Scheme</title>
+    	<link rel="stylesheet" type="text/css" href="styles.css">
+	    <meta http-equiv="content-type" content="text/html; charset=ISO-8859-1">
+	</head>
+	<body>
+		<h1>File Naming</h1><p>There are several parts that need to be considered for a naming scheme</p>
+		<ul type="disc">
+			<li>Representation Types (Intellectual Entity section).</li>
+			<li>Physical structure (Intellectual Entity section).</li>
+			<li>Logical structure (Structure Map section).</li>
+		</ul>
+		<p>There are two ways to use the file naming scheme (details below), but the basic premise is as follows:</p>
+		<ul type="disc">
+			<li>The directory names define the Intellectual Entity.<br></li>
+			<li>The file names define the structure map.</li>
+		</ul>
+		<p>You can create an automatic Intellectual Entity without creating a structure map, but you cannot create a structure map without creating an Intellectual Entity.</p>
+		<h2>File Naming Scheme Method one<br></h2>
+		<h3>Intellectual Entity</h3>
+		<ul type="disc">
+			<li>The root of the intellectual entity will be a directory.</li>
+			<li>Under the root will be directories defining the representation types.<br>
+			These directories will be prefixed by two letters and an underscore to denote which representation type is required:
+				<ul type="disc">
+					<li>DO_ means Digital Original</li>
+					<li>PC_ means Preservation Copy</li>
+					<li>MM_ means Modified Master</li>
+					<li>AC_ means Access Copy</li>
+				</ul>
+			</li>
+			<li>The intellectual entity will then mirror the file structure for each representation type.</li>
+		</ul>
+		<h3>Structure Map</h3>
+		<p>A structure map is a completely optional part of the intellectual entity.&nbsp; If this is not present, then the entity structure is used for navigation.<br></p><p>To create an automatic structure map, the files must be prefixed or suffixed with 2 parts separated with an underscore.&nbsp; There must also be an underscore after the two parts (e.g. <strong>P_1_</strong><em>filename.doc</em> or <em>filename</em>_s_1.doc).<br> 
+		The two parts are:</p>
+		<ul type="disc">
+			<li>Structure type<br /> 
+				This is a character (or group of characters) that represents a specific structure type.<br>
+				The structure types are defined using the &quot;<a href="ManageStructMapFileDesc.html">Manage Structure Map File Descriptions</a>&quot; screen.<br>  
+				There are four structure types pre-loaded (these can be modified or deleted as required): 
+				<ul type="disc">
+					<li>P - Page.</li>
+					<li>C - Cover page</li><li>X - Abstract</li><li>S - Side<br></li>
+				</ul> 
+			</li>
+			<li>Structure type number.<br>For example P_1_ would be page 1<br></li>
+		</ul>
+		<p>Two example file structures are shown below:</p>
+		<h3>No structure map</h3>
+		<ul type=disc>
+			<li>Intellectual Entity
+				<ul type=disc>
+					<li>DO_Original
+						<ul type=disc>
+							<li>File1.tif</li>
+							<li>File2.tif</li>
+						</ul>
+					</li>
+					<li>AC_Thumbnail
+						<ul type=disc>
+							<li>File1.gif</li>
+							<li>File2.gif</li>
+						</ul>
+					</li>
+				</ul>
+			</li>
+		</ul>
+		<p>This would result in an intellectual entity with two sections<br>
+		- A digital original section with two files.<br>
+		- An access copy section with two files.</p>
+		<h3>With structure map</h3>
+		<ul type=disc>
+			<li>Intellectual Entity
+				<ul type=disc>
+					<li>DO_Original
+						<ul type=disc>
+							<li>Chapter 1
+								<ul type=disc>
+									<li>P_1_file1.doc</li>
+									<li>P_2_file2.doc</li>
+								</ul>
+							</li>
+							<li>Chapter 2
+								<ul type=disc>
+									<li>P_3_file3.doc</li>
+									<li>P_4_file4.doc</li>
+								</ul>
+							</li>
+						</ul>
+					</li>
+					<li>AC_Thumbnail
+						<ul type=disc>
+							<li>Chapter 1
+								<ul type=disc>
+									<li>P_1_file1.gif</li>
+									<li>P_2_file2.gif</li>
+								</ul>
+							</li>
+							<li>Chapter 2
+								<ul type=disc>
+									<li>P_3_file3.gif</li>
+									<li>P_4_file4.gif</li>
+								</ul>
+							</li>
+						</ul>
+					</li>
+				</ul>
+			</li>
+		</ul>
+		<p>This would also result in an intellectual entity with two sections.<br> 
+		Both sections would have a Chapter 1 and a Chapter 2 section.<br>
+		The Chapter 1 sections would have 2 files<br>
+		- The digital original Chapter 1 would have the files file1.doc and file2.doc<br>
+		- The access copy Chapter 1 would have the files file1.gif and file2.gif</p>
+		<p>The structure map would have two chapters.<br>
+		Chapter 1 would have Page 1 and Page 2.<br>
+		Chapter 2 would have Page 3 and Page 4.<br>
+		Page 1 would have file1.doc and file1.gif<br>
+		Page 2 would have file2.doc and file2.gif<br>
+		etc<br></p>
+		<h2>File Naming Scheme Method two</h2>
+		<h3>Intellectual Entity</h3>
+		This method was primarily designed for sound preservation because of their workflow requirements.<br>
+		<ul>
+			<li>There should be a root directory that contains preservation copies.</li>
+			<li>There may be multiple intellectual entities stored in the same directory.</li>
+			<li>All files associated with an IE will have the same file prefix.&nbsp; This prefix will be used to filter the list of files.</li>
+			<li>The root directory may have a sub-directory with Access Copies, and/or a sub-directory with Modified Masters, and/or a sub-directory with Digital Originals.</li>
+		</ul>In this method, a file will be used to describe an intellectual entity.<br>
+		<br>
+		Right click on a file and select &quot;Use file to describe IE root&quot;.<br><br>
+		<img alt="" src="UseFileAsIERoot2.GIF"><br>
+		The system will then take all characters up to the first underscore and use that as the entity name and file prefix.<br>
+		You will be prompted to confirm these choices:<br><br>
+		<img alt="" src="EnterFilePrefix.GIF"><br><br>
+		All files in the root directory that start with the specified file prefix will be added to a preservation copy entity.<br>
+		All files in sub-directories that start with the specified file prefix will be added to a representation type matching the sub-directory name.<br>
+		The above example would result in this: <br>
+		<img alt="" src="SoundIE.GIF"><br>
+		Only files starting with the specified file prefix will be displayed<br><br> 
+		Because the _s_ suffixes match an existing structure map file description (see <a href="ManageStructMapFileDesc.html">Managing structure map file types</a>), a structure map would also be automatically generated.&nbsp; It would look like this:<br>
+		<img alt="" src="SoundStruct.GIF"><br> 
+	</body>
+</html>

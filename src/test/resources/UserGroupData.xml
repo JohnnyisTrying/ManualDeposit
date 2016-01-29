@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<UserData>
+  <Documentation>To edit this file, use Indigo.exe /MetaData</Documentation>
+  <UserData objectName="UserData" IncludeNoCMSOption="true" NoCMSMetaDataFile="./src/test/resources/MetaData.xml" MaterialFlowID="5" IncludeCMS1Search="true" CMS2MetaDataFile="./src/test/resources/MetaData.xml" StaffMediatedMetaDataFile="./src/test/resources/MetaData.xml" SharedTemplateLocation="./src/test/resources/Templates" IncludeProducerList="false" IncludeMultiEntityMenuItem="true" UserProducerID="5" CMS1MetaDataFile="./src/test/resources/MetaData.xml" FileTypeDescriptionPropertyFile="C:\JavaDev\projects\ManualDeposit\src\main\resources\fileTypes.xml" IncludeCMS2Search="true"/>
+</UserData>

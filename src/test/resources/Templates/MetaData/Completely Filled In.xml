@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<template>
+  <template>
+    <PostProcessingUndertaken objectName="PostProcessingUndertaken.true" SortOrder="9">true</PostProcessingUndertaken>
+    <CMSSystem objectName="CMSSystem.Voyager" SortOrder="2">Voyager</CMSSystem>
+    <ReferenceNumber objectName="ReferenceNumber.Ref No Unknown" SortOrder="4">Ref No Unknown</ReferenceNumber>
+    <Date objectName="Date.18/Dec/2007" SortOrder="7">18/Dec/2007</Date>
+    <RepresentationRole objectName="RepresentationRole.Chicken Salad" SortOrder="11">Chicken Salad</RepresentationRole>
+    <ProvenanceEvent objectName="ProvenanceEvent.You hippopotamic land mass" SortOrder="15">You hippopotamic land mass</ProvenanceEvent>
+    <GeographicalInformation objectName="GeographicalInformation.Somewhere near Taupo" SortOrder="13">Somewhere near Taupo</GeographicalInformation>
+    <AccessRestriction objectName="AccessRestriction.Probably should have some" SortOrder="5">Probably should have some</AccessRestriction>
+    <CMSDescription objectName="CMSDescription.Agroforestry, Sustainable forestry, Sustainable agriculture" SortOrder="3">Agroforestry, Sustainable forestry, Sustainable agriculture</CMSDescription>
+    <Source objectName="Source.Quadrega" SortOrder="6">Quadrega</Source>
+    <CMSIdentifier objectName="CMSIdentifier.121867" SortOrder="1">121867</CMSIdentifier>
+    <Creator objectName="Creator.Me!" SortOrder="8">Me!</Creator>
+    <ProvenanceEvent objectName="ProvenanceEvent.Chello. You killed my father. Prepare to die." SortOrder="14">Chello. You killed my father. Prepare to die.</ProvenanceEvent>
+    <SubmissionReason objectName="SubmissionReason.You keep using that word. I do not think it means what you think it means" SortOrder="10">You keep using that word. I do not think it means what you think it means</SubmissionReason>
+  </template>
+</template>

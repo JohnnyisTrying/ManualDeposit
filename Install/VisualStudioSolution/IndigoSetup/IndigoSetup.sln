@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Indigo29", "Indigo29\Indigo29.vdproj", "{B63CD77E-739A-4888-9D13-3CDEF7476BE6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B63CD77E-739A-4888-9D13-3CDEF7476BE6}.Debug|Default.ActiveCfg = Debug
+		{B63CD77E-739A-4888-9D13-3CDEF7476BE6}.Debug|Default.Build.0 = Debug
+		{B63CD77E-739A-4888-9D13-3CDEF7476BE6}.Release|Default.ActiveCfg = Release
+		{B63CD77E-739A-4888-9D13-3CDEF7476BE6}.Release|Default.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

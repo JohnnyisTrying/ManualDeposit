@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<FileGroup>
+    <Digital_Original fsoPath="./src/test/resources/JobQueue/TestNewJobQueue/Digital Originalfiles.xml"
+                      entityType="DigitalOriginal" entityName="Digital Original"/>
+</FileGroup>

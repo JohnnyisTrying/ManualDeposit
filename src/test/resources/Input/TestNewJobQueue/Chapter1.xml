@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<StructMap>
+    <StructMap objectName="Chapter1" SortOrder="2" StructureName="Chapter1">
+        <StructMap objectName="Page 1" SortOrder="2" StructureName="Page 1">
+            <FileSystemObject objectName="test_87_thumb_1.jpg" Description="test_87_thumb_1.jpg" SortOrder="2"
+                              File="./src/test/resources/Input/NamedStuff/AC_Thumbnails/Chapter1/P_1_test_87_thumb_1.jpg"
+                              SequenceNo="0"/>
+            <FileSystemObject objectName="test_87_view_1.jpg" Description="test_87_view_1.jpg" SortOrder="3"
+                              File="./src/test/resources/Input/NamedStuff/AC_ Display/Chapter1/P_1_test_87_view_1.jpg"
+                              SequenceNo="0"/>
+            <FileSystemObject objectName="test_87_archive_1.jpg" Description="test_87_archive_1.jpg" SortOrder="4"
+                              File="./src/test/resources/Input/NamedStuff/DO_Originals/Chapter1/P_1_test_87_archive_1.jpg"
+                              SequenceNo="0"/>
+        </StructMap>
+        <StructMap objectName="Page 2" SortOrder="3" StructureName="Page 2">
+            <FileSystemObject objectName="test_87_thumb_2.jpg" Description="test_87_thumb_2.jpg" SortOrder="3"
+                              File="./src/test/resources/Input/NamedStuff/AC_Thumbnails/Chapter1/P_2_test_87_thumb_2.jpg"
+                              SequenceNo="0"/>
+            <FileSystemObject objectName="test_87_view_2.jpg" Description="test_87_view_2.jpg" SortOrder="4"
+                              File="./src/test/resources/Input/NamedStuff/AC_ Display/Chapter1/P_2_test_87_view_2.jpg"
+                              SequenceNo="0"/>
+            <FileSystemObject objectName="test_87_archive_2.jpg" Description="test_87_archive_2.jpg" SortOrder="5"
+                              File="./src/test/resources/Input/NamedStuff/DO_Originals/Chapter1/P_2_test_87_archive_2.jpg"
+                              SequenceNo="0"/>
+        </StructMap>
+        <StructMap objectName="Page 3" SortOrder="4" StructureName="Page 3">
+            <FileSystemObject objectName="test_87_archive_3.jpg" Description="test_87_archive_3.jpg" SortOrder="6"
+                              File="./src/test/resources/Input/NamedStuff/DO_Originals/Chapter1/P_3_test_87_archive_3.jpg"
+                              SequenceNo="0"/>
+            <FileSystemObject objectName="test_87_thumb_3.jpg" Description="test_87_thumb_3.jpg" SortOrder="4"
+                              File="./src/test/resources/Input/NamedStuff/AC_Thumbnails/Chapter1/P_3_test_87_thumb_3.jpg"
+                              SequenceNo="0"/>
+            <FileSystemObject objectName="test_87_view_3.jpg" Description="test_87_view_3.jpg" SortOrder="5"
+                              File="./src/test/resources/Input/NamedStuff/AC_ Display/Chapter1/P_3_test_87_view_3.jpg"
+                              SequenceNo="0"/>
+        </StructMap>
+    </StructMap>
+</StructMap>

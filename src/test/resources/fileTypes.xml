@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<FileTypes>
+  <FileTypeObject objectName="Abstract4" Description="Abstract" SortOrder="4" Mandatory="false" FilePrefix="A" Position="Beginning" AllowMultiples="true"/>
+  <FileTypeObject objectName="Generic Sequence13" Description="Generic Sequence" SortOrder="13" Mandatory="false" FilePrefix="G" Position="End" AllowMultiples="true"/>
+  <FileTypeObject objectName="SideStart9" Description="SideStart" SortOrder="9" Mandatory="false" FilePrefix="S" Position="End" AllowMultiples="true"/>
+  <FileTypeObject objectName="Test thing1" Description="Test thing" SortOrder="1" Mandatory="false" FilePrefix="z" Position="Beginning" AllowMultiples="true"/>
+  <FileTypeObject objectName="Page6" Description="Page" SortOrder="6" Mandatory="false" FilePrefix="P" Position="Beginning" AllowMultiples="true"/>
+  <FileTypeObject objectName="Track11" Description="Track" SortOrder="11" Mandatory="false" FilePrefix="T" Position="End" AllowMultiples="true"/>
+  <FileTypeObject objectName="Cover2" Description="Cover" SortOrder="2" Mandatory="false" FilePrefix="C" Position="Beginning" AllowMultiples="true"/>
+  <FileTypeObject objectName="Back8" Description="Back" SortOrder="8" Mandatory="false" FilePrefix="C" Position="End" AllowMultiples="true"/>
+  <FileTypeObject objectName="ContentsPage5" Description="ContentsPage" SortOrder="5" Mandatory="false" FilePrefix="O" Position="Beginning" AllowMultiples="true"/>
+  <FileTypeObject objectName="Appendix7" Description="Appendix" SortOrder="7" Mandatory="false" FilePrefix="X" Position="Beginning" AllowMultiples="true"/>
+  <FileTypeObject objectName="Front3" Description="Front" SortOrder="3" Mandatory="false" FilePrefix="C" Position="End" AllowMultiples="true"/>
+  <FileTypeObject objectName="Interview12" Description="Interview" SortOrder="12" Mandatory="false" FilePrefix="I" Position="End" AllowMultiples="true"/>
+  <FileTypeObject objectName="Side10" Description="Side" SortOrder="10" Mandatory="false" FilePrefix="S" Position="End" AllowMultiples="true"/>
+</FileTypes>

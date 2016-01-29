@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<UserData>
+  <Documentation>To edit this file, use Indigo.exe /MetaData</Documentation>
+   <IndigoUser objectName="officerb" UserGroupDataFile="./src/main/resources/UserGroups/SoundUserGroupData.xml" UserName="officerb" AllowBulkLoad="false"/>
+  <IndigoUser objectName="guyn" UserGroupDataFile="./src/main/resources/UserGroups/SoundUserGroupData.xml" UserName="guyn" AllowBulkLoad="true"/>
+  <IndigoUser objectName="mckinnep" UserGroupDataFile="./src/main/resources/UserGroups/UnpublishedUserGroupData.xml" UserName="mckinnep" AllowBulkLoad="true"/>
+  <IndigoUser objectName="roulstog" UserGroupDataFile="./src/main/resources/UserGroups/DigitisationUserGroupData.xml" UserName="roulstog" AllowBulkLoad="true"/>
+  <IndigoUser objectName="adamsd" UserGroupDataFile="./src/main/resources/UserGroups/DigitisationUserGroupData.xml" UserName="adamsd" AllowBulkLoad="false"/>
+  <IndigoUser objectName="rosinl" UserGroupDataFile="./src/main/resources/UserGroups/UnpublishedUserGroupData.xml" UserName="rosinl" AllowBulkLoad="true"/>
+  <IndigoUser objectName="paramesk" UserGroupDataFile="./src/main/resources/UserGroups/PublishedUserGroupData.xml" UserName="paramesk" AllowBulkLoad="true"/>
+  <IndigoUser objectName="admin1" UserGroupDataFile="./src/main/resources/UserGroups/UnpublishedUserGroupData.xml" UserName="admin1" AllowBulkLoad="false"/>
+  <IndigoUser objectName="wuc" UserGroupDataFile="./src/main/resources/UserGroups/VideoUserGroupData.xml" UserName="wuc" AllowBulkLoad="true"/>
+  <IndigoUser objectName="NLNZother" UserGroupDataFile="./src/main/resources/UserGroups/UnpublishedUserGroupData.xml" UserName="NLNZother" AllowBulkLoad="false"/>
+  <IndigoUser objectName="NLNZsound" UserGroupDataFile="./src/main/resources/UserGroups/SoundUserGroupData.xml" UserName="NLNZsound" AllowBulkLoad="true"/>
+  <IndigoUser objectName="obrienbe" UserGroupDataFile="./src/main/resources/UserGroups/DigitisationUserGroupData.xml" UserName="obrienbe" AllowBulkLoad="true"/>
+  <IndigoUser objectName="halll" UserGroupDataFile="./src/main/resources/UserGroups/PublishedUserGroupData.xml" UserName="halll" AllowBulkLoad="false"/>
+  <IndigoUser objectName="sajwansu" UserGroupDataFile="./src/main/resources/UserGroups/UnpublishedUserGroupData.xml" UserName="sajwansu" AllowBulkLoad="false"/>
+  <IndigoUser objectName="NLNZimage" UserGroupDataFile="./src/main/resources/UserGroups/DigitisationUserGroupData.xml" UserName="NLNZimage" AllowBulkLoad="true"/>
+  <IndigoUser objectName="NLNZpublished" UserGroupDataFile="./src/main/resources/UserGroups/PublishedUserGroupData.xml" UserName="NLNZpublished" AllowBulkLoad="false"/>
+  <IndigoUser objectName="loveva" UserGroupDataFile="./src/main/resources/UserGroups/UnpublishedUserGroupData.xml" UserName="loveva" AllowBulkLoad="false"/>
+  <IndigoUser objectName="marshaln" UserGroupDataFile="./src/main/resources/UserGroups/UnpublishedUserGroupData.xml" UserName="marshaln" AllowBulkLoad="false"/>
+  <IndigoUser objectName="smithk" UserGroupDataFile="./src/main/resources/UserGroups/DigitisationUserGroupData.xml" UserName="smithk" AllowBulkLoad="false"/>
+  <IndigoUser objectName="beattym" UserGroupDataFile="./src/main/resources/UserGroups/DigitisationUserGroupData.xml" UserName="beattym" AllowBulkLoad="true"/>
+  <IndigoUser objectName="NLNZpub1" UserGroupDataFile="./src/main/resources/UserGroups/PublishedUserGroupData.xml" UserName="NLNZpub1" AllowBulkLoad="false"/>
+  <IndigoUser objectName="viskovic" UserGroupDataFile="./src/main/resources/UserGroups/DigitisationUserGroupData.xml" UserName="viskovic" AllowBulkLoad="false"/>
+  <IndigoUser objectName="badlepr" UserGroupDataFile="./src/main/resources/UserGroups/DigitisationUserGroupData.xml" UserName="badlepr" AllowBulkLoad="true"/>
+  <IndigoUser objectName="NLNZwct" UserGroupDataFile="./src/main/resources/UserGroups/WebHarvestUserGroupData.xml" UserName="NLNZwct" AllowBulkLoad="false"/>
+  <IndigoUser objectName="NLNZvideo" UserGroupDataFile="./src/main/resources/UserGroups/VideoUserGroupData.xml" UserName="NLNZvideo" AllowBulkLoad="false"/>
+  <IndigoUser objectName="moranje" UserGroupDataFile="./src/main/resources/UserGroups/UnpublishedUserGroupData.xml" UserName="moranje" AllowBulkLoad="false"/>
+  <IndigoUser objectName="gattusoj" UserGroupDataFile="./src/main/resources/UserGroups/UnpublishedUserGroupData.xml" UserName="gattusoj" AllowBulkLoad="false"/>
+  <IndigoUser objectName="coxk" UserGroupDataFile="./src/main/resources/UserGroups/UnpublishedUserGroupData.xml" UserName="coxk" AllowBulkLoad="false"/>
+  <IndigoUser objectName="rodgersf" UserGroupDataFile="./src/main/resources/UserGroups/PublishedUserGroupData.xml" UserName="rodgersf" AllowBulkLoad="false"/>
+  <IndigoUser objectName="herrioni" UserGroupDataFile="./src/main/resources/UserGroups/PublishedUserGroupData.xml" UserName="herrioni" AllowBulkLoad="false"/>
+  <IndigoUser objectName="kulathim" UserGroupDataFile="./src/main/resources/UserGroups/DigitisationUserGroupData.xml" UserName="kulathim" AllowBulkLoad="true"/>
+  <IndigoUser objectName="woodsm" UserGroupDataFile="./src/main/resources/UserGroups/PublishedUserGroupData.xml" UserName="woodsm" AllowBulkLoad="false"/>
+</UserData>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Files>
+    <FileSystemObject objectName="Chapter3" Description="Chapter3" SortOrder="4"
+                      File="./src/test/resources/Input/NamedStuff/AC_Thumbnails/Chapter3" SequenceNo="0">
+        <FileSystemObject objectName="test_87_thumb_8.jpg" Description="test_87_thumb_8.jpg" SortOrder="3"
+                          File="./src/test/resources/Input/NamedStuff/AC_Thumbnails/Chapter3/P_8_test_87_thumb_8.jpg"
+                          SequenceNo="0"/>
+        <FileSystemObject objectName="test_87_thumb_7.jpg" Description="test_87_thumb_7.jpg" SortOrder="2"
+                          File="./src/test/resources/Input/NamedStuff/AC_Thumbnails/Chapter3/P_7_test_87_thumb_7.jpg"
+                          SequenceNo="0"/>
+    </FileSystemObject>
+    <FileSystemObject objectName="Chapter2" Description="Chapter2" SortOrder="3"
+                      File="./src/test/resources/Input/NamedStuff/AC_Thumbnails/Chapter2" SequenceNo="0">
+        <FileSystemObject objectName="test_87_thumb_5.jpg" Description="test_87_thumb_5.jpg" SortOrder="3"
+                          File="./src/test/resources/Input/NamedStuff/AC_Thumbnails/Chapter2/P_5_test_87_thumb_5.jpg"
+                          SequenceNo="0"/>
+        <FileSystemObject objectName="test_87_thumb_6.jpg" Description="test_87_thumb_6.jpg" SortOrder="4"
+                          File="./src/test/resources/Input/NamedStuff/AC_Thumbnails/Chapter2/P_6_test_87_thumb_6.jpg"
+                          SequenceNo="0"/>
+        <FileSystemObject objectName="test_87_thumb_4.jpg" Description="test_87_thumb_4.jpg" SortOrder="2"
+                          File="./src/test/resources/Input/NamedStuff/AC_Thumbnails/Chapter2/P_4_test_87_thumb_4.jpg"
+                          SequenceNo="0"/>
+    </FileSystemObject>
+    <FileSystemObject objectName="Chapter1" Description="Chapter1" SortOrder="2"
+                      File="./src/test/resources/Input/NamedStuff/AC_Thumbnails/Chapter1" SequenceNo="0">
+        <FileSystemObject objectName="test_87_thumb_2.jpg" Description="test_87_thumb_2.jpg" SortOrder="3"
+                          File="./src/test/resources/Input/NamedStuff/AC_Thumbnails/Chapter1/P_2_test_87_thumb_2.jpg"
+                          SequenceNo="0"/>
+        <FileSystemObject objectName="test_87_thumb_1.jpg" Description="test_87_thumb_1.jpg" SortOrder="2"
+                          File="./src/test/resources/Input/NamedStuff/AC_Thumbnails/Chapter1/P_1_test_87_thumb_1.jpg"
+                          SequenceNo="0"/>
+        <FileSystemObject objectName="test_87_thumb_3.jpg" Description="test_87_thumb_3.jpg" SortOrder="4"
+                          File="./src/test/resources/Input/NamedStuff/AC_Thumbnails/Chapter1/P_3_test_87_thumb_3.jpg"
+                          SequenceNo="0"/>
+    </FileSystemObject>
+</Files>

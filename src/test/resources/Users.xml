@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<UserData>
+  <Documentation>To edit this file, use Indigo.exe /MetaData</Documentation>
+  <IndigoUser objectName="mngroot" UserGroupDataFile="./src/test/resources/UserGroupData.xml" UserName="mngroot" AllowBulkLoad="false"/>
+  <IndigoUser objectName="rossb" UserGroupDataFile="./src/test/resources/UserGroupData.xml" UserName="rossb" AllowBulkLoad="true"/>
+  <IndigoUser objectName="paramesk" UserGroupDataFile="./src/test/resources/UserGroupData.xml" UserName="paramesk" AllowBulkLoad="false"/>
+</UserData>

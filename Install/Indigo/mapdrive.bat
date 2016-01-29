@@ -1,0 +1,1 @@
+net use I: \\nls1\DATA\Fileplan\DSIG\NONCLI~1\NDHADI~1\3INTEG~1\Applications\INDIGO\joint_config\
