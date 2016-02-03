@@ -315,13 +315,13 @@
 		<dependency>
 			<groupId>net.java.dev.swing-layout</groupId>
 			<artifactId>swing-layout</artifactId>
-			<version>1.0</version>
+			<version>7.3.4</version>
 		</dependency>
 
 		<dependency>
 			<groupId>org.jdesktop.swingx</groupId>
 			<artifactId>swingx</artifactId>
-			<version>1.6</version>
+			<version>1.6.2</version>
 			<scope>compile</scope>
 		</dependency>
         

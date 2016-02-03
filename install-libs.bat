@@ -41,8 +41,8 @@ call mvn install:install-file -Dfile=./lib/servlet-api-2.5.jar -DgroupId=javax.s
 call mvn install:install-file -Dfile=./lib/SipWS-4.0.jar -DgroupId=com.exlibris.dps -DartifactId=SipWS -Dversion=4.0 -Dpackaging=jar
 call mvn install:install-file -Dfile=./lib/spring-2.5.jar -DgroupId=org.springframework -DartifactId=spring -Dversion=2.5 -Dpackaging=jar
 call mvn install:install-file -Dfile=./lib/srusearchclient-1.13.jar -DgroupId=nz.govt.natlib.ndha.srusearchclient -DartifactId=srusearchclient -Dversion=1.13 -Dpackaging=jar
-call mvn install:install-file -Dfile=./lib/swing-layout-1.0.3.jar -DgroupId=net.java.dev.swing-layout -DartifactId=swing-layout -Dversion=1.0.3 -Dpackaging=jar
-call mvn install:install-file -Dfile=./lib/swingx-1.6.jar -DgroupId=org.jdesktop.swingx -DartifactId=swingx -Dversion=1.6 -Dpackaging=jar
+call mvn install:install-file -Dfile=./lib/swing-layout-7.3.4.jar -DgroupId=net.java.dev.swing-layout -DartifactId=swing-layout -Dversion=7.3.4 -Dpackaging=jar
+call mvn install:install-file -Dfile=./lib/swingx-1.6.2.jar -DgroupId=org.jdesktop.swingx -DartifactId=swingx -Dversion=1.6.2 -Dpackaging=jar
 call mvn install:install-file -Dfile=./lib/wsdl4j-1.6.3.jar -DgroupId=wsdl4j -DartifactId=wsdl4j -Dversion=1.6.3 -Dpackaging=jar
 call mvn install:install-file -Dfile=./lib/xbean-2.3.0.jar -DgroupId=org.apache.xmlbeans -DartifactId=xbean -Dversion=2.3.0 -Dpackaging=jar
 call mvn install:install-file -Dfile=./lib/xercesImpl-2.11.0.jar -DgroupId=xerces -DartifactId=xercesImpl -Dversion=2.11.0 -Dpackaging=jar
