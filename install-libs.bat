@@ -14,7 +14,6 @@ call mvn install:install-file -Dfile=./lib/DepositWS-4.0.jar -DgroupId=com.exlib
 call mvn install:install-file -Dfile=./lib/dom4j-1.6.1.jar -DgroupId=dom4j -DartifactId=dom4j -Dversion=1.6.1 -Dpackaging=jar
 call mvn install:install-file -Dfile=./lib/dps-sdk-4.2.1.jar -DgroupId=com.exlibris -DartifactId=dps-sdk -Dversion=4.2.1 -Dpackaging=jar
 call mvn install:install-file -Dfile=./lib/ExLibrisMetsWriter-2.9.jar -DgroupId=nz.govt.natlib.ndha.exlibrismetswriter -DartifactId=Exlibrismetswriter -Dversion=2.9 -Dpackaging=jar
-call mvn install:install-file -Dfile=./lib/filetimes-1.9.jar -DgroupId=com.mindprod.filetimes -DartifactId=filetimes -Dversion=1.9 -Dpackaging=jar
 call mvn install:install-file -Dfile=./lib/guava-19.0.jar -DgroupId=com.google.guava -DartifactId=guava -Dversion=19.0 -Dpackaging=jar
 call mvn install:install-file -Dfile=./lib/guice-1.0.jar -DgroupId=com.google.code.guice -DartifactId=guice -Dversion=1.0 -Dpackaging=jar
 call mvn install:install-file -Dfile=./lib/hamcrest-core-1.3.jar -DgroupId=org.hamcrest -DartifactId=hamcrest-core -Dversion=1.3 -Dpackaging=jar

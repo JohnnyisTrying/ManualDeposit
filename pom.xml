@@ -118,12 +118,6 @@
         </dependency> 
         
         <dependency>
-            <groupId>com.mindprod.filetimes</groupId>
-            <artifactId>filetimes</artifactId>
-            <version>1.9</version>
-        </dependency> 
-        
-        <dependency>
             <groupId>com.google.guava</groupId>
             <artifactId>guava</artifactId>
             <version>19.0</version>
@@ -494,7 +488,7 @@
 						<goals>
 							<goal>run</goal>
 						</goals>
-						<configuration>
+<!-- 						<configuration>
 							<target>
 								<delete file="${project.build.directory}/lib/nativefiletimes.dll" />
 								<delete file="${project.build.directory}/nativefiletimes.dll" />
@@ -502,7 +496,7 @@
 									tofile="${project.build.directory}/lib/nativefiletimes.dll" />
 								<copy file="lib/nativefiletimes.dll" tofile="${project.build.directory}/nativefiletimes.dll" />
 							</target>
-						</configuration>
+						</configuration> -->
 					</execution>
 				</executions>
 			</plugin>
