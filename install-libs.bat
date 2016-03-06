@@ -12,7 +12,7 @@ call mvn install:install-file -Dfile=./lib/commons-logging-1.2.jar -DgroupId=com
 call mvn install:install-file -Dfile=./lib/commons-net-3.4.jar -DgroupId=commons-net -DartifactId=commons-net -Dversion=3.4 -Dpackaging=jar
 call mvn install:install-file -Dfile=./lib/DepositWS-4.0.jar -DgroupId=com.exlibris.dps -DartifactId=DepositWS -Dversion=4.0 -Dpackaging=jar
 call mvn install:install-file -Dfile=./lib/dom4j-1.6.1.jar -DgroupId=dom4j -DartifactId=dom4j -Dversion=1.6.1 -Dpackaging=jar
-call mvn install:install-file -Dfile=./lib/dps-sdk-4.2.1.jar -DgroupId=com.exlibris -DartifactId=dps-sdk -Dversion=4.2.1 -Dpackaging=jar
+call mvn install:install-file -Dfile=./lib/dps-sdk-5.0.0.jar -DgroupId=com.exlibris -DartifactId=dps-sdk -Dversion=5.0.0 -Dpackaging=jar
 call mvn install:install-file -Dfile=./lib/ExLibrisMetsWriter-2.9.jar -DgroupId=nz.govt.natlib.ndha.exlibrismetswriter -DartifactId=Exlibrismetswriter -Dversion=2.9 -Dpackaging=jar
 call mvn install:install-file -Dfile=./lib/guava-19.0.jar -DgroupId=com.google.guava -DartifactId=guava -Dversion=19.0 -Dpackaging=jar
 call mvn install:install-file -Dfile=./lib/guice-1.0.jar -DgroupId=com.google.code.guice -DartifactId=guice -Dversion=1.0 -Dpackaging=jar
