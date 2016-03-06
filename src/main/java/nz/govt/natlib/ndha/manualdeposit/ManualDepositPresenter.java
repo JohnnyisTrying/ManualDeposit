@@ -1935,7 +1935,29 @@ public class ManualDepositPresenter implements Serializable,
 			String pathToDisplay, JTree whichTree) {
 		LOG.debug("addChildFiles, root: " + rootNode.getUserObject());
 		model.reload(rootNode);
-		for (FileSystemObject fso : children) {
+/*		for (FileSystemObject fso : children) {
+			if (fso.getFile() == null) {
+				LOG.debug("add child (file is null): " + fso.getDescription());
+			} else {
+				LOG.debug("add child (file is not null): "
+						+ fso.getDescription());
+			}
+			if ((!model.getTreeType().equals(ETreeType.FileSystemTree))
+					|| (!fso.getIsFile()) || (!fileIsInEntity(fso))) {
+				DefaultMutableTreeNode node = new DefaultMutableTreeNode();
+				node.setUserObject(fso);
+				model.insertNodeInto(node, rootNode, rootNode.getChildCount());
+				addChildFiles(node, fso.getChildren(), model, pathToDisplay,
+						whichTree);
+				if ((pathToDisplay != null)
+						&& (pathToDisplay.equals(fso.getFullPath()))) {
+					expandNode(whichTree, node, false);
+					whichTree.scrollPathToVisible(new TreePath(node.getPath()));
+				}
+			}
+		}*/
+		for (int i=0; i<children.size(); i++) {
+			FileSystemObject fso = children.get(i);
 			if (fso.getFile() == null) {
 				LOG.debug("add child (file is null): " + fso.getDescription());
 			} else {
